@@ -1,0 +1,369 @@
+[
+  {
+    "name": "Алхімічне полум'я",
+    "url": "alchemists-fire.html",
+    "category": "Витратники",
+    "class": "Гранати"
+  },
+  {
+    "name": "Протиотрута",
+    "url": "antidote.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
+    "name": "Стріла кислоти",
+    "url": "arrow-of-acid.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла вогню",
+    "url": "arrow-of-fire.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла льоду",
+    "url": "arrow-of-ice.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла блискавки",
+    "url": "arrow-of-lightning.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла проти драконів",
+    "url": "arrow-of-dragon-slaying.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла проти елементалів",
+    "url": "arrow-of-elemental-slaying.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла нищення невмерлих",
+    "url": "arrow-of-undead-slaying.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла нищення гуманоїдів",
+    "url": "arrow-of-humanoid-slaying.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла нищення звірів",
+    "url": "arrow-of-beast-slaying.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла пітьми",
+    "url": "arrow-of-darkness.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла порятунку",
+    "url": "arrow-of-salving.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла транспозиції",
+    "url": "arrow-of-transposition.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла Ільматера",
+    "url": "arrow-of-ilmater.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Стріла з димним порохом",
+    "url": "smokepowder-arrow.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
+    "name": "Олива палія",
+    "url": "arsonists-oil.html",
+    "category": "Витратники",
+    "class": "Покриття"
+  },
+  {
+    "name": "Олива точності",
+    "url": "oil-of-accuracy.html",
+    "category": "Витратники",
+    "class": "Покриття"
+  },
+  {
+    "name": "Сяйливий щит",
+    "url": "glowing-shield.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Щити"
+  },
+  {
+    "name": "Окутий залізом щит +1",
+    "url": "iron-banded-shield+1.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Щити"
+  },
+  {
+    "name": "Легка кольчуга +1",
+    "url": "chain-shirt+1.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Середні обладунки"
+  },
+  {
+    "name": "Шкіряний обладунок +1",
+    "url": "leather-armour+1.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Легкі обладунки"
+  },
+  {
+    "name": "Дублет +2",
+    "url": "padded-armour+2.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Легкі обладунки"
+  },
+  {
+    "name": "Лати +1",
+    "url": "plate-armour+1.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Важкі обладунки"
+  },
+  {
+    "name": "Шкуряний обладунок +2",
+    "url": "hide-armour+2.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Середні обладунки"
+  },
+  {
+    "name": "Шкіряний шолом",
+    "url": "leather-helmet.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Шоломи"
+  },
+  {
+    "name": "Шолом",
+    "url": "helmet.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Шоломи"
+  },
+  {
+    "name": "Недовершений шолом пекельної сутіні",
+    "url": "flawed-helldusk-helmet.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Шоломи"
+  },
+  {
+    "name": "Капелюх меткого заклинача",
+    "url": "hat-of-the-sharp-caster.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Головні убори"
+  },
+  {
+    "name": "Прошита обсидіаном мантія",
+    "url": "obsidian-laced-robe.html",
+    "category": "Спорядження",
+    "class": "Одяг"
+  },
+  {
+    "name": "Чоботи розради й підтримки",
+    "url": "boots-of-aid-and-comfort.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Чоботи"
+  },
+  {
+    "name": "Взуття акробата",
+    "url": "acrobat-shoes.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Чоботи"
+  },
+  {
+    "name": "Рукавиці гарчання відчайдуха",
+    "url": "gloves-of-the-growling-underdog.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Рукавиці"
+  },
+  {
+    "name": "Жаронетлевий плащ",
+    "url": "cindermoth-cloak.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Плащі"
+  },
+  {
+    "name": "Незгасне лезо",
+    "url": "everburn-blade.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Великі мечі"
+  },
+  {
+    "name": "Недовершений обладунок пекельної сутіні",
+    "url": "flawed-helldusk-armour.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Важкі обладунки"
+  },
+  {
+    "name": "Рукавиці стрільби",
+    "url": "gloves-of-archery.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Рукавиці"
+  },
+  {
+    "name": "Рукавиці вогняного відновлення",
+    "url": "gloves-of-fire-restoration.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Рукавиці"
+  },
+  {
+    "name": "Довгий лук запеклого рейтара",
+    "url": "hellrider-longbow.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Довгі луки"
+  },
+  {
+    "name": "Кирка",
+    "url": "pickaxe.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Келепи"
+  },
+  {
+    "name": "Велике цілюще зілля",
+    "url": "potion-of-greater-healing.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
+    "name": "Цілюще зілля",
+    "url": "potion-of-healing.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
+    "name": "Зілля швидкості",
+    "url": "potion-of-speed.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
+    "name": "Розпечений молот",
+    "url": "red-hot-hammer.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Молоти"
+  },
+  {
+    "name": "Перстень опору отруті",
+    "url": "ring-of-poison-resistance.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Персні"
+  },
+  {
+    "name": "Ритуальний кинджал Попеляного Крила",
+    "url": "ritual-dagger-of-ash-wing.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Кинджали"
+  },
+  {
+    "name": "Ритуальний кинджал Шар",
+    "url": "ritual-dagger-of-shar.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Кинджали"
+  },
+  {
+    "name": "Іржавий довгий меч грому",
+    "url": "rusty-longsword-of-thunder.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Великі мечі"
+  },
+  {
+    "name": "Сувій \"Ланцюгова блискавка\"",
+    "url": "scroll-chain-lightning.html",
+    "category": "Витратники",
+    "class": "Сувої"
+  },
+  {
+    "name": "Сувій \"Гниль\"",
+    "url": "scroll-of-blight.html",
+    "category": "Витратники",
+    "class": "Сувої"
+  },
+  {
+    "name": "Сувій \"Вогняний заряд\"",
+    "url": "scroll-of-fire-bolt.html",
+    "category": "Витратники",
+    "class": "Сувої"
+  },
+  {
+    "name": "Сувій \"Оживлення\"",
+    "url": "scroll-of-revivify.html",
+    "category": "Витратники",
+    "class": "Сувої"
+  },
+  {
+    "name": "Простий токсин",
+    "url": "simple-toxin.html",
+    "category": "Витратники",
+    "class": "Покриття"
+  },
+  {
+    "name": "Бомба з димним порохом",
+    "url": "smokepowder-bomb.html",
+    "category": "Витратники",
+    "class": "Гранати"
+  },
+  {
+    "name": "Амулет фахового заклинача",
+    "url": "spell-savant-amulet.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Амулети"
+  },
+  {
+    "name": "Відмички",
+    "url": "thieves-tools.html",
+    "category": "Витратники"
+  },
+  {
+    "name": "Інструменти знешкодження",
+    "url": "trap-disarm-toolkit.html",
+    "category": "Витратники"
+  }
+]

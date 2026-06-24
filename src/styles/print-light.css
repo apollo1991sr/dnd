@@ -1,0 +1,406 @@
+/* print-light.css
+   Світла тема для друку сторінок Fandom/MediaWiki.
+   Підключати після common.css або замість print.css.
+*/
+
+@charset "UTF-8";
+
+/* Ховаємо службові елементи, які не потрібні на друці */
+.mw-editsection-visualeditor,
+.global-top-navigation,
+.global-explore-navigation,
+.community-navigation,
+.top_leaderboard-odyssey-wrapper,
+.community-header-wrapper,
+.page__right-rail,
+.page-header,
+.page-side-tools__wrapper,
+.fandom-sticky-header,
+.fandom-community-header__background,
+.notifications-placeholder,
+#WikiaBar,
+#mixed-content-footer,
+.mw-editsection,
+.printfooter {
+    display: none !important;
+}
+
+/* Світлі змінні теми. Важливо: працює навіть якщо на сторінці лишився клас theme-fandomdesktop-dark. */
+:root,
+.theme-fandomdesktop-dark,
+.theme-fandomdesktop-light {
+    --text: #111;
+    --muted: #555;
+    --border: #c8b8a8;
+
+    --theme-body-background-color: #fff;
+    --theme-body-background-color--rgb: 255, 255, 255;
+    --theme-body-background-image: none;
+    --theme-body-text-color: #111;
+    --theme-body-text-color--rgb: 17, 17, 17;
+    --theme-body-text-color--hover: #333;
+
+    --theme-page-background-color: #fff;
+    --theme-page-background-color--rgb: 255, 255, 255;
+    --theme-page-background-color--secondary: #f6efe8;
+    --theme-page-background-color--secondary--rgb: 246, 239, 232;
+    --theme-page-text-color: #111;
+    --theme-page-text-color--rgb: 17, 17, 17;
+    --theme-page-text-color--hover: #333;
+    --theme-page-text-mix-color: #6f6258;
+    --theme-page-text-mix-color-95: #f8f4ef;
+    --theme-page-accent-mix-color: #f1e6dc;
+
+    --theme-link-color: #6b3d00;
+    --theme-link-color--rgb: 107, 61, 0;
+    --theme-link-color--hover: #3d2500;
+    --theme-link-label-color: #fff;
+
+    --theme-accent-color: #7b5a3a;
+    --theme-accent-color--rgb: 123, 90, 58;
+    --theme-accent-color--hover: #5f432a;
+    --theme-accent-label-color: #fff;
+
+    --theme-border-color: #c8b8a8;
+    --theme-border-color--rgb: 200, 184, 168;
+
+    --fandom-primary-color: #fff;
+    --fandom-secondary-color: #f6efe8;
+    --fandom-secondary-reverse-color: #111;
+    --fandom-text-color: #111;
+    --fandom-text-color--rgb: 17, 17, 17;
+    --fandom-heading-color: #1f1f1f;
+    --fandom-link-color: #6b3d00;
+    --fandom-accent-color: #7b5a3a;
+    --fandom-accent-label-color: #fff;
+    --fandom-border-color: #c8b8a8;
+    --fandom-primary-background-color: #fff;
+    --fandom-widget-primary-background-color: #fff;
+
+    --wikiatable-header-color: #222;
+    --wikiatable-header-color-secondary: #ccc;
+    --wikiatable-header-background-color: #d8cec4;
+    --wikiatable-border-color: #ba783c;
+    --wikiatable-border-color-secondary: #b9aa9c;
+    --wikiatable-border-color-third: #ca884c;
+    --wikiatable-border-color-forth: #9b8d80;
+    --wikiatable-background-color: #f6efe8;
+}
+
+html,
+body {
+    background: #fff !important;
+    color: #111 !important;
+}
+
+body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+}
+
+.main-container,
+.resizable-container,
+.page,
+.page__main,
+.page-content,
+.mw-parser-output {
+    background: #fff !important;
+    color: #111 !important;
+    box-shadow: none !important;
+}
+
+.main-container,
+.page {
+    margin: 0 !important;
+    width: 100% !important;
+}
+
+.page-content {
+    font-family: 'Alegreya Sans', 'Noto Sans', Arial, sans-serif;
+}
+
+.page-content a {
+    color: #5f3600 !important;
+    text-decoration: underline;
+}
+
+.page-content h1,
+.page-content h2,
+.page-content h3,
+.page-content h4,
+.page-content h5,
+.page-content h6 {
+    color: #1f1f1f !important;
+    text-shadow: none !important;
+}
+
+.page-content ol,
+.page-content ul {
+    margin: 6px 0 18px 20px;
+}
+
+/* Прибираємо темні обводки з тексту, які на світлій темі дають брудний друк */
+.text-shadow,
+[class*="text-shadow"] {
+    text-shadow: none !important;
+}
+
+/* Стандартні таблиці */
+.ooui-theme-fandomooui .wikitable,
+.wikitable,
+.article-table,
+.WikiaTable {
+    background: #f6efe8 !important;
+    color: #111 !important;
+    border: 2px outset #ba783c !important;
+    border-radius: 5px;
+    border-collapse: separate;
+    border-spacing: 1px;
+}
+
+.ooui-theme-fandomooui .wikitable th,
+.wikitable th,
+.article-table th,
+.WikiaTable th {
+    color: #222 !important;
+    background: #d8cec4 !important;
+    border: 1px outset #ca884c !important;
+    text-shadow: none !important;
+    font-weight: 600;
+}
+
+.ooui-theme-fandomooui .wikitable td,
+.wikitable td,
+.article-table td,
+.WikiaTable td {
+    color: #111 !important;
+    background: #fffaf4 !important;
+    border: 1px solid #c8b8a8 !important;
+}
+
+/* Кастомні блоки-таблиці з print.css */
+.table-block,
+.table-block-inner {
+    display: inline-table;
+    font-family: 'Alegreya Sans', 'Noto Sans', Arial, sans-serif;
+    font-size: 17.5px;
+    line-height: 1.4;
+    text-align: left;
+    margin: 5px;
+    border: 2px outset #ba783c;
+    border-radius: 10px;
+    padding: 5px 10px;
+    color: #111 !important;
+    background: linear-gradient(to bottom, #fffaf4, #f6efe8, #efe2d6) !important;
+    box-shadow: none !important;
+}
+
+.table-block {
+    width: 400px;
+    min-height: 112px;
+}
+
+.table-block-inner {
+    width: 100%;
+}
+
+/* Інфобокси */
+.theme-fandomdesktop-dark .portable-infobox,
+.theme-fandomdesktop-light .portable-infobox,
+.portable-infobox {
+    background-color: #f6efe8 !important;
+    color: #111 !important;
+    border: 3px outset #ba783c !important;
+    border-radius: 15px;
+    box-shadow: none !important;
+}
+
+.theme-fandomdesktop-dark .portable-infobox .pi-header,
+.theme-fandomdesktop-light .portable-infobox .pi-header,
+.page-content .portable-infobox .pi-header {
+    background-color: #d8cec4 !important;
+    background-image: none !important;
+    color: #222 !important;
+    border: 1px outset #ca884c !important;
+    text-shadow: none !important;
+}
+
+.page-content .portable-infobox .pi-title,
+.page-content .pi-theme-bgc .pi-title {
+    background-image: none !important;
+    background-color: #efe2d6 !important;
+    color: #222 !important;
+    border-color: #ba783c !important;
+    text-shadow: none !important;
+}
+
+.bg-title,
+.bgc-title {
+    background-image: none !important;
+}
+
+.theme-fandomdesktop-dark .portable-infobox .pi-data-label,
+.theme-fandomdesktop-light .portable-infobox .pi-data-label,
+.page-content .portable-infobox .pi-data-label {
+    color: #222 !important;
+    background-color: #e4d8cc !important;
+    border: 1px outset #ca884c !important;
+    text-shadow: none !important;
+}
+
+.theme-fandomdesktop-dark .portable-infobox .pi-data-value,
+.theme-fandomdesktop-light .portable-infobox .pi-data-value,
+.page-content .portable-infobox .pi-data-value {
+    color: #111 !important;
+    background: #fffaf4 !important;
+    border-bottom: 1px outset #ca884c !important;
+}
+
+.theme-fandomdesktop-dark .pi-collapse .pi-header:first-child::after,
+.theme-fandomdesktop-light .pi-collapse .pi-header:first-child::after {
+    display: none !important;
+}
+
+.pi-navigation,
+.pi-navigation[data-item-name="footer"] {
+    background: #efe2d6 !important;
+    color: #111 !important;
+    border-color: #ba783c !important;
+    text-shadow: none !important;
+}
+
+.pi-navigation[data-item-name="footer"] a {
+    color: #5f3600 !important;
+    filter: none !important;
+    text-shadow: none !important;
+}
+
+/* Навбокси та декоративні блоки */
+.bg-box,
+.bg-nav,
+.ukrportal {
+    background-color: #f6efe8 !important;
+    color: #111 !important;
+    box-shadow: none !important;
+}
+
+.bg-box .bg-box_title {
+    background-image: none !important;
+    color: #222 !important;
+}
+
+/* Зображення не затемнюємо фільтрами на друці */
+img,
+.portable-infobox .pi-data-value img,
+.bg-box .bg-box_content img {
+    filter: none !important;
+}
+
+@media print {
+    @page {
+        margin: 10mm;
+    }
+
+    html,
+    body,
+    .main-container,
+    .page,
+    .page__main,
+    .page-content {
+        background: #fff !important;
+        color: #111 !important;
+    }
+
+    a[href]::after {
+        content: "" !important;
+    }
+
+    .portable-infobox,
+    .table-block,
+    .table-block-inner,
+    .wikitable,
+    .article-table,
+    .WikiaTable {
+        break-inside: avoid;
+        page-break-inside: avoid;
+    }
+}
+
+
+.mw-editsection-visualeditor {
+    display: none;
+}
+
+.global-top-navigation, .global-explore-navigation, .community-navigation, .top_leaderboard-odyssey-wrapper, .community-header-wrapper, .page__right-rail, .page-header, .page-side-tools__wrapper {
+    display: none;
+}
+
+.theme-fandomdesktop-dark .pi-collapse .pi-header:first-child::after {
+    display: none;
+}
+
+.main-container {
+    margin: 0;
+    width: 100%;
+    background: white;
+}
+
+body {
+    background: white;
+}
+
+.page {
+    color: white;
+    margin: 0;
+}
+
+/*
+.page__main {
+    background-color: #9b9b9b;
+}
+.theme-fandomdesktop-dark .portable-infobox {
+    background-color: #605243;
+}
+
+.text-shadow {
+    text-shadow: 0.75px 0.75px 0.75px #111, -0.75px 0.75px 0.75px #111, 0.75px -0.75px 0.75px #111, -0.75px -0.75px 0.75px #111;
+}*/
+
+
+.page-content ol, .page-content ul {
+    margin: 6px 0 18px 20px;
+}
+
+.table-block {
+    display: inline-table;
+    font-family: 'Alegreya Sans';
+    font-size: 17.5px;
+    line-height: 1.4;
+    text-align: left;
+    margin: 5px;
+    border: 2px outset #8a480c;
+    border-radius: 10px;
+    padding: 5px 10px;
+    width: 400px;
+    min-height: 112px;
+    background: linear-gradient(to bottom, #224a1f5f, #224a1f5f, #224a2f3f, #28511a3f);
+}
+
+.table-block-inner {
+    display: inline-table;
+    font-family: 'Alegreya Sans';
+    font-size: 17.5px;
+    line-height: 1.4;
+    text-align: left;
+    margin: 5px;
+    border: 2px outset #8a480c;
+    border-radius: 10px;
+    padding: 5px 10px;
+    width: 100%;
+    background: linear-gradient(to bottom, #224a1f5f, #224a1f5f, #224a2f3f, #28511a3f);
+}
+
+.resizable-container {
+    width: 100%;
+    margin: 0 auto;
+}
