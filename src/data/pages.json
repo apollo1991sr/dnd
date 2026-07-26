@@ -267,8 +267,20 @@
     "class": "Зілля"
   },
   {
+    "name": "Потужне цілюще зілля",
+    "url": "potion-of-superior-healing.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
     "name": "Цілюще зілля",
     "url": "potion-of-healing.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
+    "name": "Оздоровне зілля",
+    "url": "potion-of-vitality.html",
     "category": "Витратники",
     "class": "Зілля"
   },
