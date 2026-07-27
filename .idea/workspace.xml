@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="init">
+    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/pages/potion-of-superior-healing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/potion-of-vitality.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/data/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/pages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/flawed-helldusk-armour.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/flawed-helldusk-armour.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/print-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/print-light.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;apollo1991sr&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "apollo1991sr"
   }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/apollo1991sr/dnd.git&quot;,
-    &quot;accountId&quot;: &quot;aa90d867-27ae-47c7-ad3f-fa3b1fc05442&quot;
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/apollo1991sr/dnd.git",
+    "accountId": "3c7b2160-6a37-4497-8feb-d648aa81a38d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -47,7 +52,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/styles",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vadym/projects/dnd/src/pages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -58,6 +63,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\pages" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\styles" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
@@ -69,8 +75,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.149" />
-        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.149" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.31033.138" />
+        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.31033.138" />
       </set>
     </attachedChunks>
   </component>
@@ -96,25 +102,11 @@
       <workItem from="1781187120469" duration="678000" />
       <workItem from="1781188312578" duration="653000" />
       <workItem from="1781189102580" duration="4743000" />
-      <workItem from="1782283590462" duration="1869000" />
-      <workItem from="1782907324284" duration="139000" />
+      <workItem from="1785092947657" duration="3150000" />
     </task>
-    <task id="LOCAL-00001" summary="init">
-      <option name="closed" value="true" />
-      <created>1782283759829</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1782283759829</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
