@@ -4,13 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/pages/elixir-of-acid-resistance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/elixir-of-fire-resistance.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/table.html" afterDir="false" />
+    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/pages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/arrow-of-acid.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/arrow-of-acid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/arrow-of-fire.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/arrow-of-fire.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/arrow-of-ice.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/arrow-of-ice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/arrow-of-lightning.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/arrow-of-lightning.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/potion-of-speed.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/potion-of-speed.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/scroll-of-fire-bolt.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/scroll-of-fire-bolt.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/simple-toxin.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/simple-toxin.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/smokepowder-arrow.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/smokepowder-arrow.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/smokepowder-bomb.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/smokepowder-bomb.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +33,12 @@
     &quot;assignee&quot;: &quot;apollo1991sr&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/apollo1991sr/dnd.git&quot;,
-    &quot;accountId&quot;: &quot;3c7b2160-6a37-4497-8feb-d648aa81a38d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/apollo1991sr/dnd.git",
+    "accountId": "aa90d867-27ae-47c7-ad3f-fa3b1fc05442"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -44,26 +48,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "git.auto.fetch.suggestion.counter": "1",
-    "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/pages",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git.auto.fetch.suggestion.counter&quot;: &quot;1&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/pages&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.HTML&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
@@ -78,8 +82,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.31033.138" />
-        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.31033.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.149" />
+        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.149" />
       </set>
     </attachedChunks>
   </component>
@@ -106,6 +110,7 @@
       <workItem from="1781188312578" duration="653000" />
       <workItem from="1781189102580" duration="4743000" />
       <workItem from="1785092947657" duration="3150000" />
+      <workItem from="1785158721450" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -115,14 +120,34 @@
       <option name="project" value="LOCAL" />
       <updated>1785131797330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1785145138563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785145138563</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
