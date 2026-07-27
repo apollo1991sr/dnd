@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/potion-of-superior-healing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/potion-of-vitality.html" afterDir="false" />
+    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/src/pages/elixir-of-acid-resistance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/elixir-of-fire-resistance.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/pages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/flawed-helldusk-armour.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/flawed-helldusk-armour.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/print-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/print-light.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "apollo1991sr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;apollo1991sr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/apollo1991sr/dnd.git",
-    "accountId": "3c7b2160-6a37-4497-8feb-d648aa81a38d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/apollo1991sr/dnd.git&quot;,
+    &quot;accountId&quot;: &quot;3c7b2160-6a37-4497-8feb-d648aa81a38d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -52,21 +52,24 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vadym/projects/dnd/src/pages",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/pages",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
       <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\pages" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\styles" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
@@ -104,9 +107,22 @@
       <workItem from="1781189102580" duration="4743000" />
       <workItem from="1785092947657" duration="3150000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <option name="closed" value="true" />
+      <created>1785131797330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785131797330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
