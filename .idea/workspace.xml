@@ -102,11 +102,24 @@
       <workItem from="1781187120469" duration="678000" />
       <workItem from="1781188312578" duration="653000" />
       <workItem from="1781189102580" duration="4743000" />
-      <workItem from="1785092947657" duration="3150000" />
+      <workItem from="1785092947657" duration="3225000" />
     </task>
+    <task id="LOCAL-00001" summary="new potions">
+      <option name="closed" value="true" />
+      <created>1785096167220</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1785096167220</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new potions" />
+    <option name="LAST_COMMIT_MESSAGE" value="new potions" />
   </component>
 </project>
