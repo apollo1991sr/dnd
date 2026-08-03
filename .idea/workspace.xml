@@ -4,13 +4,119 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/potion-of-superior-healing.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/potion-of-vitality.html" afterDir="false" />
+    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 блис.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 вогн.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 гром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 кисл.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 лік.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 некр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 отр.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 пром.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 псих.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 сил.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 фіз.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 хол.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/items/heartblade-of-varrax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/heartblade-of-varrax.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/data/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/pages.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/flawed-helldusk-armour.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/flawed-helldusk-armour.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/print-light.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/print-light.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,18 +129,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "apollo1991sr"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;apollo1991sr&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/apollo1991sr/dnd.git",
-    "accountId": "3c7b2160-6a37-4497-8feb-d648aa81a38d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/apollo1991sr/dnd.git&quot;,
+    &quot;accountId&quot;: &quot;aa90d867-27ae-47c7-ad3f-fa3b1fc05442&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -52,21 +158,25 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vadym/projects/dnd/src/pages",
+    "git.auto.fetch.suggestion.counter": "1",
+    "ignore_missing_gitignore": "true",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/images",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.sourceCode.HTML",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\pages" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\styles" />
+      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\pages" />
+      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
@@ -75,8 +185,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.31033.138" />
-        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.31033.138" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.149" />
+        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.149" />
       </set>
     </attachedChunks>
   </component>
@@ -102,24 +212,54 @@
       <workItem from="1781187120469" duration="678000" />
       <workItem from="1781188312578" duration="653000" />
       <workItem from="1781189102580" duration="4743000" />
-      <workItem from="1785092947657" duration="3225000" />
+      <workItem from="1785092947657" duration="3150000" />
+      <workItem from="1785158721450" duration="1280000" />
+      <workItem from="1785753583415" duration="8355000" />
     </task>
-    <task id="LOCAL-00001" summary="new potions">
+    <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
-      <created>1785096167220</created>
+      <created>1785131797330</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1785096167220</updated>
+      <updated>1785131797330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1785145138563</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1785145138563</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <option name="closed" value="true" />
+      <created>1785162635126</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1785162635126</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="new potions" />
-    <option name="LAST_COMMIT_MESSAGE" value="new potions" />
+    <MESSAGE value="init" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>
