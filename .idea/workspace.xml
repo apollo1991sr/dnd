@@ -5,118 +5,761 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 блис.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 вогн.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 гром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 кисл.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 лік.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 некр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 отр.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 пром.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 псих.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 сил.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 фіз.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 хол.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/items/heartblade-of-varrax.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/heartblade-of-varrax.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/acid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/bludgeoning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/force.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/necrotic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/piercing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/radiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/slashing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/damage/thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Charisma Score Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Charisma Small Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Constitution Score Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Constitution Small Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Dexterity Score Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Dexterity Small Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Intelligence Score Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Intelligence Small Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Strength Score Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Strength Small Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Wisdom Score Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/ability_scores/Wisdom Small Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Acolyte Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Charlatan Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Criminal Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Entertainer Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Folk Hero Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Guild Artisan Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Haunted One Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Hermit Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Noble Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Outlander Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Sage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Sailor Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Soldier Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/backgrounds/Background Urchin Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic l3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls left right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls up down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic ls.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic r3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs left right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs up down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/generic_controller_hint/ControllerHint generic rs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 r1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 r2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 touchPad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps4_controller_hint/ControllerHint ps4 up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 circle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 cross.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 dpad down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 dpad left right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 dpad left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 dpad right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 dpad up down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 dpad up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 l1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 l2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 r1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 r2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 share.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 square.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 touchPad.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/ps5_controller_hint/ControllerHint ps5 up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch dpad down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch dpad left right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch dpad left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch dpad right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch dpad up down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch dpad up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch lb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch minus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch rb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/switch_controller_hint/ControllerHint switch y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone b.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone dpad down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone dpad left right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone dpad left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone dpad right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone dpad up down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone dpad up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone lb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone lt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone options.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone rb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone rt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone up.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone view.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/controller_hints/xbox_controller_hint/ControllerHint xboxone y.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Acid Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Bludgeoning Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Cold Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Fire Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Force Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Lightning Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Necrotic Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Piercing Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Poison Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Psychic Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Radiant Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Slashing Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/damage_types/Thunder Damage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Bahamut Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Bahamut Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Bane Deity Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Bane Deity Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Bhaal Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Bhaal Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Corellon Larethian Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Corellon Larethian Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Eilistraee Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Eilistraee Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Garl Glittergold Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Garl Glittergold Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Gruumsh Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Gruumsh Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Helm Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Helm Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Ilmater Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Ilmater Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Kelemvor Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Kelemvor Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Laduguer Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Laduguer Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Lathander Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Lathander Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Lolth Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Lolth Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Mielikki Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Mielikki Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Moradin Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Moradin Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Myrkul Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Myrkul Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Mystra Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Mystra Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Oghma Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Oghma Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Selûne Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Selûne Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Shar Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Shar Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Talos Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Talos Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tempus Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tempus Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tiamat Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tiamat Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tymora Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tymora Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tyr Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Tyr Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Vlaakith Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Vlaakith Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Yondalla Icon Original.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/deities/Yondalla Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/+1d10 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/+1d4 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/+1d6 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/+1d8 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/1d4 + 1d6 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/1d8 Healing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/4d4 + 2d4 Acid Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Acid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Force.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Healing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Necrotic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Radiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D10 Thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Acid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Force.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Healing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Necrotic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Radiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D12 Thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Acid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Force.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Healing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Necrotic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Radiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D4 Thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Acid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Force.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Healing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Necrotic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Radiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D6 Thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Acid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Cold.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Fire.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Force.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Healing.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Lightning.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Necrotic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Physical.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Poison.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Psychic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Radiant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/dice/D8 Thunder.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Abilities Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Alchemy Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Elixir Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Equipment Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Glow Alchemy Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Grenade Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico classCantrip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Ico knownSpells lvl 09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Illithid Power Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Pull Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Solution Alchemy Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/general/Spellbook Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 1 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 1 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 2 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 3 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 4 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 5 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 5 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Level 6 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/1 Shadow Spell Slot Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/16 Armor Class Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 1 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 1 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 2 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 2 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 3 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 3 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 4 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 4 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 5 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 5 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/2 Level 6 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 1 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 2 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 3 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 4 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 5 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 5 Warlock Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/3 Level 6 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/4 Level 1 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/4 Level 2 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/4 Level 3 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/4 Level 4 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/4 Level 5 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/4 Level 6 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/56x56 Generic Buff Condition Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/56x56 Generic Debuff Condition Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/6 Level 1 Spell Slots.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Advantage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Attitude Green UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Attitude Orange UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Attitude Red UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Attitude Yellow UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Attitude Yellow Wiki Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Barbarian Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Bard Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Cleric Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Druid Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Fighter Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Monk Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Paladin Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Ranger Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Rogue Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Sorcerer Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Warlock Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Class Wizard Plain Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Disadvantage Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Extra HP HUD Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Feat CC Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/HP Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Healing UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Resource box numbered.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Resource box.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Sneak UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Spell Save DC HUD Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Turn Controller UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/Turn Party UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Acid Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Acid Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Acid Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Acid Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Acid Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Immunity NM Plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Bludgeoning Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Cold Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Cold Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Cold Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Cold Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Cold Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Cold Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Fire Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Fire Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Fire Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Fire Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Fire Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Fire Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Force Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Force Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Force Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Force Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Force Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Force Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Lightning Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Lightning Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Lightning Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Lightning Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Lightning Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Lightning Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Magic Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Magic Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Magic Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Magic Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Magic Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Magic Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Necrotic Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Necrotic Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Necrotic Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Necrotic Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Necrotic Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Necrotic Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Immunity NM Plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Piercing Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Poison Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Poison Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Poison Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Poison Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Poison Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Poison Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Psychic Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Psychic Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Psychic Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Psychic Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Psychic Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Psychic Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Radiant Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Radiant Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Radiant Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Radiant Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Radiant Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Radiant Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Immunity NM Plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Immunity NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Slashing Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Thunder Immunity.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Thunder Resistance Full.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Thunder Resistance M.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Thunder Resistance NM.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/hud/damage_resistance_images/Thunder Vulnerability.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Ally Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Camp Stash H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Camp Stash Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Custom Coop Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Custom H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Custom Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Enemy Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Exil H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Exit Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Header Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Legend Banner Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Location Banner Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Location H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Location Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Map Tutorial Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Multiplayer Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Neutral Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Party Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Quest H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Quest Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Quick Travel Tutorial Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Secret H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Secret Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Trader H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Trader Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Treasure H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Treasure Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Waypoint H Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Waypoint Header Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/maps/Waypoint Map Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Hide All UI Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Ico Check 1.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Ico Check 2.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Ico Checkbox.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Ico Report.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Magic Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Map D Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Map H Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Map Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Spellbook D Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Spellbook H Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Spellbook Learn D Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Spellbook Learn H Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Spellbook Learn Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/menus/Spellbook Menu Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Asmodeus Tiefling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Black Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Blue Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Brass Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Bronze Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Copper Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Deep Gnome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Drow Half-Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Drow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Duergar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Dwarf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Forest Gnome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Githyanki.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Gnome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Gold Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Gold Dwarf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Green Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Half-Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Half-Orc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Halfling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race High Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race High Half-Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Human.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Lightfoot Halfling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Lolth-Sworn Drow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Mephistopheles Tiefling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Red Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Rock Gnome.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Seldarine Drow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Shield Dwarf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Silver Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Strongheart Halfling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Tiefling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race White Dragonborn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Wood Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Wood Half-Elf.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/races/Race Zariel Tiefling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Action Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Arcane Arrow Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Arcane Recovery Charges Icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Bardic Inspiration Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Bladesong Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Bonus Action Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Channel Divinity Charges Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Channel Oath Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Cosmic Omen Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Fungal Infestation Charge Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Lay on Hands Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Luck Point Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Monk Ki Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Movement Speed Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Natural Recovery Charges Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Rage Charges Icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Reaction Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Red Star Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Shadow Spell Slot Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Sorcery Points Icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Spell Slot Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Star Map Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Superiority Die d8 Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Tides of Chaos Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/War Priest Charges Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Warlock Spell Slot Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Wild Shape Charges Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/resources/Writhing Current Resource Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Acrobatics Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Action Surge Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Animal Handling Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Arcana Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Arcane Recovery Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Athletics Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Bend Luck Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Bind Pact Weapon Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Create Sorcery Points Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Create Spell Slot Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Deception Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Dismiss Pact Weapon Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Dismiss Wild Shape Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Elemental Affinity Resistance Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Giant Insect Spider Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/History Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Insight Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Intimidation Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Investigation Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Lunar Mend Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Medicine Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Careful Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Distant Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Empowered Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Extended Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Heightened Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Quickened Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Subtle Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Metamagic Twinned Spell Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Move Moonbeam Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Natural Recovery Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Nature Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Pact of the Blade Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Perception Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Performance Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Persuasion Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Rally Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Ram Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Religion Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Second Wind Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Sleight of Hand Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Static Overdrive Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Stealth Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Summon Companion Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Survival Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Tides of Chaos Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Tu'narath's Embrace Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Badger Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Bear Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Boar Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Cat Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Cave Bear Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Deep Rothé Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Dire Raven Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Owlbear Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Rat Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Sabre-Toothed Tiger Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Spider Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/skills/Wild Shape Wolf Unfaded Icon.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Battleaxes Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Clubs Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Daggers Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Darts Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Flails Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Glaives Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Greataxes Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Greatclubs Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Greatswords Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Halberds Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Hand Crossbows Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Handaxes Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Heavy Crossbows Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Javelins Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Light Crossbows Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Light Hammers Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Longbows Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Longswords Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Maces Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Mauls Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Morningstars Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Pikes Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Quarterstaves Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Rapiers Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Scimitars Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Shortbows Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Shortswords Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Sickles Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Slings Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Spears Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Tridents Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/War Picks Icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/interface/weapon_types/Warhammers Icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/pages.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/pages.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d10 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d10_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d12 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d12_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d4 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d4_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d6 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d6_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 1d8 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/1d8_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d10 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d10_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d4 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d4_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d6 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d6_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 блис.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_lightning.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 вогн.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_fire.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 гром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_thunder.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 кисл.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_acid.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 лік.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_healing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 некр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_necrotic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 отр.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_poison.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 пром.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_radiant.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 псих.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_psychic.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 сил.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_force.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 фіз.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_physical.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/dice-icons/Іконка ББ3 Кістка 2d8 хол.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/icons/dice/2d8_cold.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/heartblade-of-varrax.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/heartblade-of-varrax.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/common.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,6 +768,9 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/master" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -160,7 +806,7 @@
     "git-widget-placeholder": "master",
     "git.auto.fetch.suggestion.counter": "1",
     "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/images",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vadym/projects/dnd/src/images/icons",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -172,11 +818,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons\damage" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons\dice" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
-      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\pages" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\styles" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />

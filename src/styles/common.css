@@ -14795,3 +14795,33 @@ a[href$="Lavlike"] {
     width: 96px;
     height: 96px
 }
+
+
+
+
+
+span {
+    vertical-align: bottom;
+}
+
+.dice {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+}
+
+.damage {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-size: cover;
+}
+
+.fire .dice1d4 {
+    background-image: url("../images/icons/dice/1d4_fire.png");
+}
+
+.fire .damage {
+    background-image: url("../images/icons/damage/fire.png");
+}
