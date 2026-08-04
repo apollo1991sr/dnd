@@ -14142,7 +14142,7 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
 }
 
 .bg-title {
-    background-image: url('/images/border-2.png'); /* Зображення для заголовка */
+    background-image: url('../images/bg-title.png'); /* Зображення для заголовка */
 }
 
 .bgc-title {
@@ -14801,27 +14801,239 @@ a[href$="Lavlike"] {
 
 
 span {
-    vertical-align: bottom;
+    vertical-align: middle;
+}
+.icon {
+    display: inline-block;
+    background-position: center center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    width: 28px;
+    height: 28px;
+}
+.portable-infobox .icon {
+    width: 20px;
+    height: 20px;
 }
 
-.dice {
-    display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-size: cover;
+.link-style {
+    color: var(--theme-link-color);
+}
+.icon.dice {
+    width: 34px;
+    height: 34px;
 }
 
-.damage {
-    display: inline-block;
+.icon.damage {
     width: 24px;
     height: 24px;
-    background-size: cover;
 }
 
 .fire .dice1d4 {
     background-image: url("../images/icons/dice/1d4_fire.png");
 }
 
+.fire .dice1d6 {
+    background-image: url("../images/icons/dice/1d6_fire.png");
+}
+
+.fire .dice1d8 {
+    background-image: url("../images/icons/dice/1d8_fire.png");
+}
+
+.fire .dice1d10 {
+    background-image: url("../images/icons/dice/1d10_fire.png");
+}
+
+.fire .dice1d12 {
+    background-image: url("../images/icons/dice/1d12_fire.png");
+}
+
 .fire .damage {
     background-image: url("../images/icons/damage/fire.png");
+}
+
+.physical .dice1d4 {
+    background-image: url("../images/icons/dice/1d4_physical.png");
+}
+
+.physical .dice1d6 {
+    background-image: url("../images/icons/dice/1d6_physical.png");
+}
+
+.physical .dice1d8 {
+    background-image: url("../images/icons/dice/1d8_physical.png");
+}
+
+.physical .dice1d10 {
+    background-image: url("../images/icons/dice/1d10_physical.png");
+}
+
+.physical .dice1d12 {
+    background-image: url("../images/icons/dice/1d12_physical.png");
+}
+
+.slashing .damage {
+    background-image: url("../images/icons/damage/slashing.webp");
+}
+
+.bludgeoning .damage {
+    background-image: url("../images/icons/damage/bludgeoning.webp");
+}
+
+.piercing .damage {
+    background-image: url("../images/icons/damage/piercing.webp");
+}
+
+.rest {
+    width: 24px;
+    height: 24px;
+}
+
+.rest.long {
+    background-image: url("../images/icons/rest/long.webp");
+}
+
+.rest.short {
+    background-image: url("../images/icons/rest/short.webp");
+}
+
+.item-category {
+    width: 20px;
+    height: 20px;
+}
+
+.item-category.equipment {
+    background-image: url("../images/icons/item-category/equipment.webp");
+}
+
+.item-class.simple-weapon {
+    background-image: url("../images/icons/item-class/simple-weapon.webp");
+}
+
+.item-class.martial-weapon {
+    background-image: url("../images/icons/item-class/martial-weapon.webp");
+}
+
+.weapon-type.longsword {
+    background-image: url("../images/icons/weapon-type/Longswords Icon.png");
+}
+
+.weapon-range.melee {
+    background-image: url("../images/icons/weapon-range/melee.webp");
+}
+
+.proficiency {
+    background-image: url("../images/icons/general/proficiency.webp");
+}
+.rarity {
+    background-image: url("../images/icons/general/rarity.webp");
+}
+
+.distance {
+    background-image: url("../images/icons/general/distance.webp");
+}
+
+.handedness {
+    background-image: url("../images/icons/general/handedness.webp");
+}
+
+.dippable {
+    background-image: url("../images/icons/general/dippable.webp");
+}
+
+.price {
+    background-image: url("../images/icons/general/price.webp");
+}
+
+.weight {
+    background-image: url("../images/icons/general/weight.webp");
+}
+
+.strength {
+    background-image: url("../images/icons/ability/strength.webp");
+}
+
+.saving-throws {
+    background-image: url("../images/icons/general/saving-throws.webp");
+}
+
+.duration {
+    background-image: url("../images/icons/general/duration.webp");
+}
+
+.movement-speed {
+    background-image: url("../images/icons/general/movement-speed.webp");
+}
+
+.description .icon {
+    width: 40px;
+    height: 40px;
+    background-image: url("../images/icons/general/description.webp");
+    flex-shrink: 0;
+}
+
+.label {
+    border: 1px solid;
+    border-radius: 3px;
+    padding: 0 3px;
+}
+.label.very-rare {
+    border-color: #d1017b;
+    color:#d1017b;
+}
+
+.text-semibold {
+    font-weight: 500;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.inline-flex {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2px;
+}
+
+.gradient-very-rare {
+    background: linear-gradient(to bottom, #54003299, #1B1A1999, #1B1A1999, #40295199);
+}
+.gradient-rare {
+    background: linear-gradient(to bottom, #00374999, #1B1A1999, #1B1A1999, #40295199);
+}
+.gradient-uncommon {
+    background: linear-gradient(to bottom, #00491599, #1B1A1999, #1B1A1999, #40295199);
+}
+
+.bg-title {
+    padding: 16px 20px 16px 20px;
+}
+
+.pi-theme-very-rare .bg-title {
+    color:#d1017b;
+}
+
+.description {
+    display: flex;
+    gap: 5px;
+}
+
+.description .text {
+    font-family: 'Alegreya Sans';
+    font-style: italic;
+    font-size: 18px;
+    line-height: 1.4;
+    border-left: 2px outset #777;
+    border-right: 2px outset #777;
+    border-radius: 5px;
+    padding: 5px 10px
+}
+
+.accent {
+    color: #bf6f6f;
 }

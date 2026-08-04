@@ -219,7 +219,7 @@ body {
 .theme-fandomdesktop-light .portable-infobox .pi-header,
 .page-content .portable-infobox .pi-header {
     background-color: #d8cec4 !important;
-    background-image: none !important;
+    /*background-image: none !important;*/
     color: #222 !important;
     border: 1px outset #ca884c !important;
     text-shadow: none !important;
@@ -227,7 +227,7 @@ body {
 
 .page-content .portable-infobox .pi-title,
 .page-content .pi-theme-bgc .pi-title {
-    background-image: none !important;
+    /*background-image: none !important;*/
     background-color: #efe2d6 !important;
     color: #222 !important;
     border-color: #ba783c !important;
@@ -236,7 +236,7 @@ body {
 
 .bg-title,
 .bgc-title {
-    background-image: none !important;
+    /*background-image: none !important;*/
 }
 
 .theme-fandomdesktop-dark .portable-infobox .pi-data-label,
