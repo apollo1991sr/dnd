@@ -1,8 +1,4 @@
 @charset "UTF-8";
-@import "/uk/index.php?title=MediaWiki:Інформація.css&action=raw&ctype=text/css";
-@import "/uk/index.php?title=MediaWiki:Таблиці.css&action=raw&ctype=text/css";
-@import "/uk/index.php?title=MediaWiki:Навігація.css&action=raw&ctype=text/css";
-@import "/uk/index.php?title=MediaWiki:Головна.css&action=raw&ctype=text/css";
 @import url(https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@0,100;0,300;0,400;0,500;0,700;0,800;0,900;1,100;1,300;1,400;1,500;1,700;1,800;1,900&family=Alegreya:ital,wght@0,400..900;1,400..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap);
 
 :root {
@@ -14800,14 +14796,12 @@ a[href$="Lavlike"] {
 
 
 
-span {
-    vertical-align: middle;
-}
 .icon {
     display: inline-block;
     background-position: center center;
     background-size: contain;
     background-repeat: no-repeat;
+    vertical-align: middle;
 
     width: 28px;
     height: 28px;
@@ -14830,60 +14824,143 @@ span {
     height: 24px;
 }
 
-.fire .dice1d4 {
-    background-image: url("../images/icons/dice/1d4_fire.png");
+.dice1d4 {
+    background-image: var(--dice-1d4);
 }
 
-.fire .dice1d6 {
-    background-image: url("../images/icons/dice/1d6_fire.png");
+.dice1d6 {
+    background-image: var(--dice-1d6);
 }
 
-.fire .dice1d8 {
-    background-image: url("../images/icons/dice/1d8_fire.png");
+.dice1d8 {
+    background-image: var(--dice-1d8);
 }
 
-.fire .dice1d10 {
-    background-image: url("../images/icons/dice/1d10_fire.png");
+.dice1d10 {
+    background-image: var(--dice-1d10);
 }
 
-.fire .dice1d12 {
-    background-image: url("../images/icons/dice/1d12_fire.png");
+.dice1d12 {
+    background-image: var(--dice-1d12);
 }
 
-.fire .damage {
-    background-image: url("../images/icons/damage/fire.png");
+.damage {
+    background-image: var(--damage-icon);
 }
 
-.physical .dice1d4 {
-    background-image: url("../images/icons/dice/1d4_physical.png");
+.fire {
+    --dice-1d4: url("../images/icons/dice/1d4_fire.png");
+    --dice-1d6: url("../images/icons/dice/1d6_fire.png");
+    --dice-1d8: url("../images/icons/dice/1d8_fire.png");
+    --dice-1d10: url("../images/icons/dice/1d10_fire.png");
+    --dice-1d12: url("../images/icons/dice/1d12_fire.png");
+
+    --damage-icon: url("../images/icons/damage/fire.png");
 }
 
-.physical .dice1d6 {
-    background-image: url("../images/icons/dice/1d6_physical.png");
+/* Фізична шкода */
+.physical {
+    --dice-1d4: url("../images/icons/dice/1d4_physical.png");
+    --dice-1d6: url("../images/icons/dice/1d6_physical.png");
+    --dice-1d8: url("../images/icons/dice/1d8_physical.png");
+    --dice-1d10: url("../images/icons/dice/1d10_physical.png");
+    --dice-1d12: url("../images/icons/dice/1d12_physical.png");
 }
 
-.physical .dice1d8 {
-    background-image: url("../images/icons/dice/1d8_physical.png");
+/* Рубана шкода */
+.slashing {
+    --damage-icon: url("../images/icons/damage/slashing.webp");
 }
 
-.physical .dice1d10 {
-    background-image: url("../images/icons/dice/1d10_physical.png");
+/* Забійна шкода */
+.bludgeoning {
+    --damage-icon: url("../images/icons/damage/bludgeoning.webp");
 }
 
-.physical .dice1d12 {
-    background-image: url("../images/icons/dice/1d12_physical.png");
+/* Колольна шкода */
+.piercing {
+    --damage-icon: url("../images/icons/damage/piercing.webp");
 }
 
-.slashing .damage {
-    background-image: url("../images/icons/damage/slashing.webp");
+/* Кислотна шкода */
+.acid {
+    --dice-1d4: url("../images/icons/dice/1d4_acid.png");
+    --dice-1d6: url("../images/icons/dice/1d6_acid.png");
+    --dice-1d8: url("../images/icons/dice/1d8_acid.png");
+    --dice-1d10: url("../images/icons/dice/1d10_acid.png");
+    --dice-1d12: url("../images/icons/dice/1d12_acid.png");
 }
 
-.bludgeoning .damage {
-    background-image: url("../images/icons/damage/bludgeoning.webp");
+/* Холодова шкода */
+.cold {
+    --dice-1d4: url("../images/icons/dice/1d4_cold.png");
+    --dice-1d6: url("../images/icons/dice/1d6_cold.png");
+    --dice-1d8: url("../images/icons/dice/1d8_cold.png");
+    --dice-1d10: url("../images/icons/dice/1d10_cold.png");
+    --dice-1d12: url("../images/icons/dice/1d12_cold.png");
 }
 
-.piercing .damage {
-    background-image: url("../images/icons/damage/piercing.webp");
+/* Силова шкода */
+.force {
+    --dice-1d4: url("../images/icons/dice/1d4_force.png");
+    --dice-1d6: url("../images/icons/dice/1d6_force.png");
+    --dice-1d8: url("../images/icons/dice/1d8_force.png");
+    --dice-1d10: url("../images/icons/dice/1d10_force.png");
+    --dice-1d12: url("../images/icons/dice/1d12_force.png");
+}
+
+/* Лікування */
+.healing {
+    --dice-1d4: url("../images/icons/dice/1d4_healing.png");
+    --dice-1d6: url("../images/icons/dice/1d6_healing.png");
+    --dice-1d8: url("../images/icons/dice/1d8_healing.png");
+    --dice-1d10: url("../images/icons/dice/1d10_healing.png");
+    --dice-1d12: url("../images/icons/dice/1d12_healing.png");
+}
+
+/* Блискавкова шкода */
+.lightning {
+    --dice-1d4: url("../images/icons/dice/1d4_lightning.png");
+    --dice-1d6: url("../images/icons/dice/1d6_lightning.png");
+    --dice-1d8: url("../images/icons/dice/1d8_lightning.png");
+    --dice-1d10: url("../images/icons/dice/1d10_lightning.png");
+    --dice-1d12: url("../images/icons/dice/1d12_lightning.png");
+}
+
+/* Некротична шкода */
+.necrotic {
+    --dice-1d4: url("../images/icons/dice/1d4_necrotic.png");
+    --dice-1d6: url("../images/icons/dice/1d6_necrotic.png");
+    --dice-1d8: url("../images/icons/dice/1d8_necrotic.png");
+    --dice-1d10: url("../images/icons/dice/1d10_necrotic.png");
+    --dice-1d12: url("../images/icons/dice/1d12_necrotic.png");
+}
+
+/* Отрутна шкода */
+.poison {
+    --dice-1d4: url("../images/icons/dice/1d4_poison.png");
+    --dice-1d6: url("../images/icons/dice/1d6_poison.png");
+    --dice-1d8: url("../images/icons/dice/1d8_poison.png");
+    --dice-1d10: url("../images/icons/dice/1d10_poison.png");
+    --dice-1d12: url("../images/icons/dice/1d12_poison.png");
+}
+
+/* Променева шкода */
+.radiant {
+    --dice-1d4: url("../images/icons/dice/1d4_radiant.png");
+    --dice-1d6: url("../images/icons/dice/1d6_radiant.png");
+    --dice-1d8: url("../images/icons/dice/1d8_radiant.png");
+    --dice-1d10: url("../images/icons/dice/1d10_radiant.png");
+    --dice-1d12: url("../images/icons/dice/1d12_radiant.png");
+}
+
+/* Громова шкода */
+.thunder {
+    --dice-1d4: url("../images/icons/dice/1d4_thunder.png");
+    --dice-1d6: url("../images/icons/dice/1d6_thunder.png");
+    --dice-1d8: url("../images/icons/dice/1d8_thunder.png");
+    --dice-1d10: url("../images/icons/dice/1d10_thunder.png");
+    --dice-1d12: url("../images/icons/dice/1d12_thunder.png");
 }
 
 .rest {
@@ -14914,6 +14991,14 @@ span {
 
 .item-class.martial-weapon {
     background-image: url("../images/icons/item-class/martial-weapon.webp");
+}
+
+.item-class.armour {
+    background-image: url("../images/icons/item-class/armour.webp");
+}
+
+.item-type.gloves {
+    background-image: url("../images/icons/item-type/gloves.webp");
 }
 
 .weapon-type.longsword {
@@ -14978,10 +15063,8 @@ span {
     border: 1px solid;
     border-radius: 3px;
     padding: 0 3px;
-}
-.label.very-rare {
-    border-color: #d1017b;
-    color:#d1017b;
+    border-color: var(--rarity-color);
+    color: var(--rarity-color);
 }
 
 .text-semibold {
@@ -14990,6 +15073,8 @@ span {
 
 .inline-block {
     display: inline-block;
+    vertical-align: inherit;
+    gap: 3px;
 }
 
 .inline-flex {
@@ -15000,22 +15085,40 @@ span {
     gap: 2px;
 }
 
-.gradient-very-rare {
-    background: linear-gradient(to bottom, #54003299, #1B1A1999, #1B1A1999, #40295199);
+.pi-image {
+    border-radius: 10px;
+    background: linear-gradient(
+            to bottom,
+            rgb(from var(--rarity-color) r g b / 33%),
+            transparent,
+            transparent,
+            rgb(from var(--rarity-color) r g b / 20%)
+    );
 }
-.gradient-rare {
-    background: linear-gradient(to bottom, #00374999, #1B1A1999, #1B1A1999, #40295199);
+
+.pi-theme-legend {
+    --rarity-color: #b7861d;
 }
-.gradient-uncommon {
-    background: linear-gradient(to bottom, #00491599, #1B1A1999, #1B1A1999, #40295199);
+
+.pi-theme-very-rare {
+    --rarity-color: #d1017b;
+}
+
+.pi-theme-rare {
+    --rarity-color: #01bfff;
+}
+
+.pi-theme-uncommon {
+    --rarity-color: #01bd39;
+}
+
+.pi-theme-common {
+    --rarity-color: #8f8f8f;
 }
 
 .bg-title {
     padding: 16px 20px 16px 20px;
-}
-
-.pi-theme-very-rare .bg-title {
-    color:#d1017b;
+    color: var(--rarity-color);
 }
 
 .description {
@@ -15036,4 +15139,18 @@ span {
 
 .accent {
     color: #bf6f6f;
+}
+
+.inline-block {
+    display: inline-flex;
+    align-items: center;
+    vertical-align: middle;
+}
+
+.inline-block .icon {
+    flex: 0 0 auto;
+}
+
+.inline-block .link-style {
+    line-height: inherit;
 }
