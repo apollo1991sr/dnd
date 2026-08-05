@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/src/images/items/glowing-shield.webp" afterDir="false" />
+    <list default="true" id="7eb4dc78-c87f-4737-a3d5-d6aae5d2be20" name="Changes" comment="upd">
+      <change afterPath="$PROJECT_DIR$/src/images/icons/item-class/armour.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/icons/item-type/gloves.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/glowing-shield.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/glowing-shield.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/heartblade-of-varrax.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/heartblade-of-varrax.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/varraxs-chain-bracers.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/varraxs-chain-bracers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/common.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,12 +32,12 @@
     &quot;assignee&quot;: &quot;apollo1991sr&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/apollo1991sr/dnd.git&quot;,
-    &quot;accountId&quot;: &quot;aa90d867-27ae-47c7-ad3f-fa3b1fc05442&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/apollo1991sr/dnd.git",
+    "accountId": "3c7b2160-6a37-4497-8feb-d648aa81a38d"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
@@ -55,7 +57,7 @@
     "git-widget-placeholder": "master",
     "git.auto.fetch.suggestion.counter": "1",
     "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "//wsl.localhost/Ubuntu/home/vadym/projects/dnd/src/images/items",
+    "last_opened_file_path": "//wsl.localhost/Ubuntu-24.04/home/vadym/projects/dnd/src/images/icons/item-class",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,23 +69,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\icons\general" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\icons\ability" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\pages" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons\item-class" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons\item-type" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons\damage" />
+      <recent name="\\wsl.localhost\Ubuntu-24.04\home\vadym\projects\dnd\src\images\icons\dice" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\icons" />
-      <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\icons\adv" />
       <recent name="\\wsl.localhost\Ubuntu\home\vadym\projects\dnd\src\images\items" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PS-261.23567.149" />
-        <option value="bundled-php-predefined-a98d8de5180a-022fa7b8ab75-com.jetbrains.php.sharedIndexes-PS-261.23567.149" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PS-253.31033.138" />
+        <option value="bundled-php-predefined-a98d8de5180a-0e0d91225499-com.jetbrains.php.sharedIndexes-PS-253.31033.138" />
       </set>
     </attachedChunks>
   </component>
@@ -111,9 +111,8 @@
       <workItem from="1781189102580" duration="4743000" />
       <workItem from="1785092947657" duration="3150000" />
       <workItem from="1785158721450" duration="1280000" />
-      <workItem from="1785753583415" duration="8373000" />
-      <workItem from="1785824610412" duration="21592000" />
-      <workItem from="1785922248664" duration="652000" />
+      <workItem from="1785753583415" duration="8355000" />
+      <workItem from="1785857838541" duration="7061000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -139,31 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1785162635126</updated>
     </task>
-    <task id="LOCAL-00004" summary="update">
+    <task id="LOCAL-00004" summary="upd">
       <option name="closed" value="true" />
-      <created>1785769380855</created>
+      <created>1785782007175</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1785769380855</updated>
+      <updated>1785782007175</updated>
     </task>
-    <task id="LOCAL-00005" summary="update">
-      <option name="closed" value="true" />
-      <created>1785824700355</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1785824700355</updated>
-    </task>
-    <task id="LOCAL-00006" summary="update">
-      <option name="closed" value="true" />
-      <created>1785855698953</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1785855698953</updated>
-    </task>
-    <option name="localTasksCounter" value="7" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +166,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="upd" />
+    <option name="LAST_COMMIT_MESSAGE" value="upd" />
   </component>
 </project>
