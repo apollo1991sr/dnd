@@ -14667,6 +14667,11 @@ a[href$="Lavlike"] {
     text-shadow: 0.75px 0.75px 0.75px #111, -0.75px 0.75px 0.75px #111, 0.75px -0.75px 0.75px #111, -0.75px -0.75px 0.75px #111
 }
 
+.temporary-healing {
+    color: #9f9f5f;
+    text-shadow: 0.75px 0.75px 0.75px #111, -0.75px 0.75px 0.75px #111, 0.75px -0.75px 0.75px #111, -0.75px -0.75px 0.75px #111
+}
+
 .physical {
     color: #afafaf;
     text-shadow: 0.75px 0.75px 0.75px #111, -0.75px 0.75px 0.75px #111, 0.75px -0.75px 0.75px #111, -0.75px -0.75px 0.75px #111
@@ -14813,6 +14818,7 @@ a[href$="Lavlike"] {
 
 .link-style {
     color: var(--theme-link-color);
+    font-weight: 500;
 }
 .icon.dice {
     width: 34px;
@@ -14963,11 +14969,6 @@ a[href$="Lavlike"] {
     --dice-1d12: url("../images/icons/dice/1d12_thunder.png");
 }
 
-.rest {
-    width: 24px;
-    height: 24px;
-}
-
 .rest.long {
     background-image: url("../images/icons/rest/long.webp");
 }
@@ -14984,6 +14985,9 @@ a[href$="Lavlike"] {
 .item-category.equipment {
     background-image: url("../images/icons/item-category/equipment.webp");
 }
+.item-category.consumables {
+    background-image: url("../images/icons/item-category/consumables.webp");
+}
 
 .item-class.simple-weapon {
     background-image: url("../images/icons/item-class/simple-weapon.webp");
@@ -14997,8 +15001,24 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-class/armour.webp");
 }
 
+.item-class.elixirs {
+    background-image: url("../images/icons/item-class/elixirs.webp");
+}
+
+.item-class.accessories {
+    background-image: url("../images/icons/item-class/accessories.webp");
+}
+
 .item-type.gloves {
     background-image: url("../images/icons/item-type/gloves.webp");
+}
+
+.item-type.rings {
+    background-image: url("../images/icons/item-type/rings.webp");
+}
+
+.item-type.shield {
+    background-image: url("../images/icons/item-type/shield.webp");
 }
 
 .weapon-type.longsword {
@@ -15022,6 +15042,18 @@ a[href$="Lavlike"] {
 
 .handedness {
     background-image: url("../images/icons/general/handedness.webp");
+}
+
+.armour-class {
+    background-image: url("../images/icons/general/armour-class.webp");
+}
+
+.resistance {
+    background-image: url("../images/icons/general/resistance.webp");
+}
+
+.immunity {
+    background-image: url("../images/icons/general/immunity.webp");
 }
 
 .dippable {
@@ -15050,6 +15082,18 @@ a[href$="Lavlike"] {
 
 .movement-speed {
     background-image: url("../images/icons/general/movement-speed.webp");
+}
+
+.reaction {
+    background-image: url("../images/icons/general/reaction.webp");
+}
+
+.hp {
+    background-image: url("../images/icons/general/hp.webp");
+}
+
+.temporary-hp {
+    background-image: url("../images/icons/general/temporary-hp.webp");
 }
 
 .description .icon {
@@ -15139,6 +15183,7 @@ a[href$="Lavlike"] {
 
 .accent {
     color: #bf6f6f;
+    font-weight: 500;
 }
 
 .inline-block {

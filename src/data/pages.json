@@ -120,6 +120,13 @@
     "class": "Покриття"
   },
   {
+    "name": "Щит з луски Варракса",
+    "url": "varrax-scale-shield.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Щити"
+  },
+  {
     "name": "Сяйливий щит",
     "url": "glowing-shield.html",
     "category": "Спорядження",
@@ -326,6 +333,13 @@
   {
     "name": "Перстень опору отруті",
     "url": "ring-of-poison-resistance.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Персні"
+  },
+  {
+    "name": "Перстень тліючого сліду",
+    "url": "ring-of-smoldering-trace.html",
     "category": "Спорядження",
     "class": "Аксесуари",
     "type": "Персні"
