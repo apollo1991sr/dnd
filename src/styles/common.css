@@ -15084,6 +15084,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/movement-speed.webp");
 }
 
+.opportunity-attack {
+    background-image: url("../images/icons/action/opportunity-attack.webp");
+}
+
 .reaction {
     background-image: url("../images/icons/general/reaction.webp");
 }
@@ -15184,6 +15188,11 @@ a[href$="Lavlike"] {
 .accent {
     color: #bf6f6f;
     font-weight: 500;
+}
+
+
+.glow {
+    filter: drop-shadow(0 0 1px #00ffff)
 }
 
 .inline-block {
