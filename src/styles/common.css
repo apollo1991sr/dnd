@@ -15084,6 +15084,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/movement-speed.webp");
 }
 
+.bonus-action {
+    background-image: url("../images/icons/general/bonus-action.webp");
+}
+
 .opportunity-attack {
     background-image: url("../images/icons/action/opportunity-attack.webp");
 }
