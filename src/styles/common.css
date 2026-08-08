@@ -15001,6 +15001,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-class/armour.webp");
 }
 
+.item-class.clothing {
+    background-image: url("../images/icons/item-class/clothing.webp");
+}
+
 .item-class.elixirs {
     background-image: url("../images/icons/item-class/elixirs.webp");
 }
@@ -15015,6 +15019,10 @@ a[href$="Lavlike"] {
 
 .item-type.rings {
     background-image: url("../images/icons/item-type/rings.webp");
+}
+
+.item-type.belts {
+    background-image: url("../images/icons/item-type/belts.webp");
 }
 
 .item-type.shield {
@@ -15090,6 +15098,10 @@ a[href$="Lavlike"] {
 
 .opportunity-attack {
     background-image: url("../images/icons/action/opportunity-attack.webp");
+}
+
+.rage {
+    background-image: url("../images/icons/action/rage.webp");
 }
 
 .reaction {

@@ -266,6 +266,13 @@
     "type": "Важкі обладунки"
   },
   {
+    "name": "Пояс палаючої луски",
+    "url": "belt-of-burning-scales.html",
+    "category": "Спорядження",
+    "class": "Одяг",
+    "type": "Пояси"
+  },
+  {
     "name": "Рукавиці стрільби",
     "url": "gloves-of-archery.html",
     "category": "Спорядження",
