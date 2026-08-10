@@ -6,6 +6,12 @@
     "class": "Гранати"
   },
   {
+    "name": "Свячена вода",
+    "url": "holy-water.html",
+    "category": "Витратники",
+    "class": "Гранати"
+  },
+  {
     "name": "Протиотрута",
     "url": "antidote.html",
     "category": "Витратники",
@@ -352,6 +358,13 @@
     "type": "Персні"
   },
   {
+    "name": "Кільце бездушного сяйва",
+    "url": "callous-glow-ring.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Персні"
+  },
+  {
     "name": "Ритуальний кинджал Попеляного Крила",
     "url": "ritual-dagger-of-ash-wing.html",
     "category": "Спорядження",
@@ -424,5 +437,11 @@
     "name": "Інструменти знешкодження",
     "url": "trap-disarm-toolkit.html",
     "category": "Витратники"
+  },
+  {
+    "name": "Ведмежий капкан",
+    "url": "bear-trap.html",
+    "category": "Витратники",
+    "class": "Пастки"
   }
 ]
