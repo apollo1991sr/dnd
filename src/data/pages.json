@@ -18,6 +18,12 @@
     "class": "Зілля"
   },
   {
+    "name": "Зілля розмови з тваринами",
+    "url": "potion-of-animal-speaking.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
     "name": "Еліксир кислотного опору",
     "url": "elixir-of-acid-resistance.html",
     "category": "Витратники",
@@ -26,6 +32,18 @@
   {
     "name": "Еліксир вогняного опору",
     "url": "elixir-of-fire-resistance.html",
+    "category": "Витратники",
+    "class": "Еліксири"
+  },
+  {
+    "name": "Еліксир некротичного опору",
+    "url": "elixir-of-necrotic-resistance.html",
+    "category": "Витратники",
+    "class": "Еліксири"
+  },
+  {
+    "name": "Еліксир променевого опору",
+    "url": "elixir-of-radiant-resistance.html",
     "category": "Витратники",
     "class": "Еліксири"
   },

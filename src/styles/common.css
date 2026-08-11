@@ -14272,8 +14272,7 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
 .pi-navigation {
     display: flex;
     justify-content: center;
-    height: 24px;
-    line-height: 16px;
+    line-height: 22px;
     font-weight: normal;
     color: inherit;
     border-top: 4px double #8a480c !important;
@@ -14282,6 +14281,8 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
     margin: 0 2px 1px;
     /*font-size: 13px;*/
     font-size: 15px; /* шрифт Alegreya */
+    text-transform: uppercase;
+    height: 30px;
 }
 
 .pi-theme-bgc .pi-navigation {
@@ -15001,6 +15002,7 @@ a[href$="Lavlike"] {
 .item-category.equipment {
     background-image: url("../images/icons/item-category/equipment.webp");
 }
+
 .item-category.consumables {
     background-image: url("../images/icons/item-category/consumables.webp");
 }
@@ -15023,6 +15025,10 @@ a[href$="Lavlike"] {
 
 .item-class.elixirs {
     background-image: url("../images/icons/item-class/elixirs.webp");
+}
+
+.item-class.potions {
+    background-image: url("../images/icons/item-class/potions.webp");
 }
 
 .item-class.grenades {
@@ -15136,8 +15142,20 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/single-use.webp");
 }
 
+.limit {
+    background-image: url("../images/icons/general/limit.webp");
+}
+
 .opportunity-attack {
     background-image: url("../images/icons/action/opportunity-attack.webp");
+}
+
+.buff {
+    background-image: url("../images/icons/action/buff.webp");
+}
+
+.throwing {
+    background-image: url("../images/icons/action/throwing.webp");
 }
 
 .rage {
@@ -15249,6 +15267,10 @@ a[href$="Lavlike"] {
 
 .glow {
     filter: drop-shadow(0 0 1px #00ffff)
+}
+
+.squared {
+    border-radius: 10%;
 }
 
 .inline-block {
