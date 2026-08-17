@@ -15070,6 +15070,7 @@ a[href$="Lavlike"] {
 .proficiency {
     background-image: url("../images/icons/general/proficiency.webp");
 }
+
 .rarity {
     background-image: url("../images/icons/general/rarity.webp");
 }
@@ -15142,8 +15143,28 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/single-use.webp");
 }
 
+.attack-roll {
+    background-image: url("../images/icons/general/attack-roll.webp");
+}
+
 .limit {
     background-image: url("../images/icons/general/limit.webp");
+}
+
+.advantage {
+    color:#7c8d3c;
+}
+
+.disadvantage {
+    color:#bf5c60;
+}
+
+.advantage .icon {
+    background-image: url("../images/icons/advantage/advantage.webp");
+}
+
+.disadvantage .icon {
+    background-image: url("../images/icons/advantage/disadvantage.webp");
 }
 
 .opportunity-attack {
@@ -15160,6 +15181,10 @@ a[href$="Lavlike"] {
 
 .rage {
     background-image: url("../images/icons/action/rage.webp");
+}
+
+.invisibility {
+    background-image: url("../images/icons/action/invisibility.webp");
 }
 
 .reaction {
@@ -15273,10 +15298,18 @@ a[href$="Lavlike"] {
     border-radius: 10%;
 }
 
+.rounded {
+    border-radius: 50%
+}
+
 .inline-block {
     display: inline-flex;
     align-items: center;
     vertical-align: middle;
+}
+
+.nowrap {
+    white-space: nowrap;
 }
 
 .inline-block .icon {

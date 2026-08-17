@@ -48,6 +48,12 @@
     "class": "Еліксири"
   },
   {
+    "name": "Еліксир отрутного опору",
+    "url": "elixir-of-poison-resistance.html",
+    "category": "Витратники",
+    "class": "Еліксири"
+  },
+  {
     "name": "Стріла кислоти",
     "url": "arrow-of-acid.html",
     "category": "Витратники",
@@ -351,6 +357,12 @@
   {
     "name": "Зілля швидкості",
     "url": "potion-of-speed.html",
+    "category": "Витратники",
+    "class": "Зілля"
+  },
+  {
+    "name": "Зілля невидимості",
+    "url": "potion-of-invisibility.html",
     "category": "Витратники",
     "class": "Зілля"
   },
