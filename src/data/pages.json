@@ -54,6 +54,12 @@
     "class": "Еліксири"
   },
   {
+    "name": "Еліксир жаги крові",
+    "url": "elixir-of-bloodlust.html",
+    "category": "Витратники",
+    "class": "Еліксири"
+  },
+  {
     "name": "Стріла кислоти",
     "url": "arrow-of-acid.html",
     "category": "Витратники",
@@ -275,6 +281,13 @@
     "type": "Плащі"
   },
   {
+    "name": "Плащ захисту",
+    "url": "cloak-of-protection.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Плащі"
+  },
+  {
     "name": "Незгасне лезо",
     "url": "everburn-blade.html",
     "category": "Спорядження",
@@ -416,6 +429,13 @@
     "type": "Великі мечі"
   },
   {
+    "name": "Сонячне вістря Пелора",
+    "url": "pelorsun-blade.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Рапіри"
+  },
+  {
     "name": "Сувій \"Ланцюгова блискавка\"",
     "url": "scroll-chain-lightning.html",
     "category": "Витратники",
@@ -454,6 +474,13 @@
   {
     "name": "Амулет фахового заклинача",
     "url": "spell-savant-amulet.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Амулети"
+  },
+  {
+    "name": "Амулет забутих голосів",
+    "url": "the-amulet-of-lost-voices.html",
     "category": "Спорядження",
     "class": "Аксесуари",
     "type": "Амулети"

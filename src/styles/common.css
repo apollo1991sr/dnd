@@ -15059,8 +15059,20 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-type/shield.webp");
 }
 
+.item-type.cloaks {
+    background-image: url("../images/icons/item-type/cloaks.webp");
+}
+
+.item-type.amulets {
+    background-image: url("../images/icons/item-type/amulets.webp");
+}
+
 .weapon-type.longsword {
     background-image: url("../images/icons/weapon-type/Longswords Icon.png");
+}
+
+.weapon-type.rapiers {
+    background-image: url("../images/icons/weapon-type/rapiers.webp");
 }
 
 .weapon-range.melee {
@@ -15085,6 +15097,14 @@ a[href$="Lavlike"] {
 
 .handedness {
     background-image: url("../images/icons/general/handedness.webp");
+}
+
+.one-handed {
+    background-image: url("../images/icons/general/one-handed.webp");
+}
+
+.finesse {
+    background-image: url("../images/icons/general/finesse.webp");
 }
 
 .armour-class {
@@ -15153,10 +15173,12 @@ a[href$="Lavlike"] {
 
 .advantage {
     color:#7c8d3c;
+    font-weight: 500;
 }
 
 .disadvantage {
     color:#bf5c60;
+    font-weight: 500;
 }
 
 .advantage .icon {
@@ -15197,6 +15219,10 @@ a[href$="Lavlike"] {
 
 .temporary-hp {
     background-image: url("../images/icons/general/temporary-hp.webp");
+}
+
+.speak-with-dead {
+    background-image: url("../images/icons/spell/Speak with Dead.webp");
 }
 
 .description .icon {

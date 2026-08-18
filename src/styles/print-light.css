@@ -136,7 +136,7 @@ body {
 
 .page-content ol,
 .page-content ul {
-    margin: 6px 0 18px 20px;
+    margin: 6px 0 10px 20px;
 }
 
 /* Прибираємо темні обводки з тексту, які на світлій темі дають брудний друк */
@@ -367,10 +367,6 @@ body {
 }*/
 
 
-.page-content ol, .page-content ul {
-    margin: 6px 0 18px 20px;
-}
-
 .table-block {
     display: inline-table;
     font-family: 'Alegreya Sans';
@@ -382,7 +378,7 @@ body {
     border-radius: 10px;
     padding: 5px 10px;
     width: 400px;
-    min-height: 112px;
+    min-height: 60px;
     background: linear-gradient(to bottom, #224a1f5f, #224a1f5f, #224a2f3f, #28511a3f);
 }
 
