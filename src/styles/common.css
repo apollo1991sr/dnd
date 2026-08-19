@@ -15055,6 +15055,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-type/belts.webp");
 }
 
+.item-type.boots {
+    background-image: url("../images/icons/item-type/boots.webp");
+}
+
 .item-type.shield {
     background-image: url("../images/icons/item-type/shield.webp");
 }
@@ -15141,6 +15145,10 @@ a[href$="Lavlike"] {
 
 .dexterity {
     background-image: url("../images/icons/ability/dexterity.webp");
+}
+
+.acrobatics {
+    background-image: url("../images/icons/skills/acrobatics.webp");
 }
 
 .saving-throws {
