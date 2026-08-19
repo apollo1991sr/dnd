@@ -14314,6 +14314,10 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
     border-top: none !important;
 }
 
+.page-content .pi-data-value.pi-item-damage {
+    padding-left: 23px;
+}
+
 /**********  Кінець коду інфобоксу  ***********/
 /** --------------------------------- */
 /*******************************/
@@ -14851,6 +14855,26 @@ a[href$="Lavlike"] {
     background-image: var(--dice-1d12);
 }
 
+.dice2d4 {
+    background-image: var(--dice-2d4);
+}
+
+.dice2d6 {
+    background-image: var(--dice-2d6);
+}
+
+.dice2d8 {
+    background-image: var(--dice-2d8);
+}
+
+.dice2d10 {
+    background-image: var(--dice-2d10);
+}
+
+.dice2d12 {
+    background-image: var(--dice-2d12);
+}
+
 .damage {
     background-image: var(--damage-icon);
 }
@@ -14862,6 +14886,12 @@ a[href$="Lavlike"] {
     --dice-1d10: url("../images/icons/dice/1d10_fire.png");
     --dice-1d12: url("../images/icons/dice/1d12_fire.png");
 
+    --dice-2d4: url("../images/icons/dice/2d4_fire.png");
+    --dice-2d6: url("../images/icons/dice/2d6_fire.png");
+    --dice-2d8: url("../images/icons/dice/2d8_fire.png");
+    --dice-2d10: url("../images/icons/dice/2d10_fire.png");
+    --dice-2d12: url("../images/icons/dice/2d12_fire.png");
+
     --damage-icon: url("../images/icons/damage/fire.png");
 }
 
@@ -14872,6 +14902,12 @@ a[href$="Lavlike"] {
     --dice-1d8: url("../images/icons/dice/1d8_physical.png");
     --dice-1d10: url("../images/icons/dice/1d10_physical.png");
     --dice-1d12: url("../images/icons/dice/1d12_physical.png");
+
+    --dice-2d4: url("../images/icons/dice/2d4_physical.png");
+    --dice-2d6: url("../images/icons/dice/2d6_physical.png");
+    --dice-2d8: url("../images/icons/dice/2d8_physical.png");
+    --dice-2d10: url("../images/icons/dice/2d10_physical.png");
+    --dice-2d12: url("../images/icons/dice/2d12_physical.png");
 }
 
 /* Рубана шкода */
@@ -14897,91 +14933,145 @@ a[href$="Lavlike"] {
     --dice-1d10: url("../images/icons/dice/1d10_acid.png");
     --dice-1d12: url("../images/icons/dice/1d12_acid.png");
 
+    --dice-2d4:  url("../images/icons/dice/2d4_acid.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_acid.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_acid.png");
+    --dice-2d10: url("../images/icons/dice/2d10_acid.png");
+    --dice-2d12: url("../images/icons/dice/2d12_acid.png");
+
     --damage-icon: url("../images/icons/damage/acid.png");
 }
 
 /* Холодова шкода */
 .cold {
-    --dice-1d4: url("../images/icons/dice/1d4_cold.png");
-    --dice-1d6: url("../images/icons/dice/1d6_cold.png");
-    --dice-1d8: url("../images/icons/dice/1d8_cold.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_cold.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_cold.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_cold.png");
     --dice-1d10: url("../images/icons/dice/1d10_cold.png");
     --dice-1d12: url("../images/icons/dice/1d12_cold.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_cold.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_cold.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_cold.png");
+    --dice-2d10: url("../images/icons/dice/2d10_cold.png");
+    --dice-2d12: url("../images/icons/dice/2d12_cold.png");
 
     --damage-icon: url("../images/icons/damage/cold.png");
 }
 
 /* Силова шкода */
 .force {
-    --dice-1d4: url("../images/icons/dice/1d4_force.png");
-    --dice-1d6: url("../images/icons/dice/1d6_force.png");
-    --dice-1d8: url("../images/icons/dice/1d8_force.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_force.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_force.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_force.png");
     --dice-1d10: url("../images/icons/dice/1d10_force.png");
     --dice-1d12: url("../images/icons/dice/1d12_force.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_force.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_force.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_force.png");
+    --dice-2d10: url("../images/icons/dice/2d10_force.png");
+    --dice-2d12: url("../images/icons/dice/2d12_force.png");
 
     --damage-icon: url("../images/icons/damage/force.png");
 }
 
 /* Лікування */
 .healing {
-    --dice-1d4: url("../images/icons/dice/1d4_healing.png");
-    --dice-1d6: url("../images/icons/dice/1d6_healing.png");
-    --dice-1d8: url("../images/icons/dice/1d8_healing.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_healing.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_healing.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_healing.png");
     --dice-1d10: url("../images/icons/dice/1d10_healing.png");
     --dice-1d12: url("../images/icons/dice/1d12_healing.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_healing.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_healing.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_healing.png");
+    --dice-2d10: url("../images/icons/dice/2d10_healing.png");
+    --dice-2d12: url("../images/icons/dice/2d12_healing.png");
 }
 
 /* Блискавкова шкода */
 .lightning {
-    --dice-1d4: url("../images/icons/dice/1d4_lightning.png");
-    --dice-1d6: url("../images/icons/dice/1d6_lightning.png");
-    --dice-1d8: url("../images/icons/dice/1d8_lightning.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_lightning.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_lightning.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_lightning.png");
     --dice-1d10: url("../images/icons/dice/1d10_lightning.png");
     --dice-1d12: url("../images/icons/dice/1d12_lightning.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_lightning.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_lightning.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_lightning.png");
+    --dice-2d10: url("../images/icons/dice/2d10_lightning.png");
+    --dice-2d12: url("../images/icons/dice/2d12_lightning.png");
 
     --damage-icon: url("../images/icons/damage/lightning.png");
 }
 
 /* Некротична шкода */
 .necrotic {
-    --dice-1d4: url("../images/icons/dice/1d4_necrotic.png");
-    --dice-1d6: url("../images/icons/dice/1d6_necrotic.png");
-    --dice-1d8: url("../images/icons/dice/1d8_necrotic.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_necrotic.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_necrotic.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_necrotic.png");
     --dice-1d10: url("../images/icons/dice/1d10_necrotic.png");
     --dice-1d12: url("../images/icons/dice/1d12_necrotic.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_necrotic.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_necrotic.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_necrotic.png");
+    --dice-2d10: url("../images/icons/dice/2d10_necrotic.png");
+    --dice-2d12: url("../images/icons/dice/2d12_necrotic.png");
 
     --damage-icon: url("../images/icons/damage/necrotic.png");
 }
 
 /* Отрутна шкода */
 .poison {
-    --dice-1d4: url("../images/icons/dice/1d4_poison.png");
-    --dice-1d6: url("../images/icons/dice/1d6_poison.png");
-    --dice-1d8: url("../images/icons/dice/1d8_poison.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_poison.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_poison.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_poison.png");
     --dice-1d10: url("../images/icons/dice/1d10_poison.png");
     --dice-1d12: url("../images/icons/dice/1d12_poison.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_poison.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_poison.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_poison.png");
+    --dice-2d10: url("../images/icons/dice/2d10_poison.png");
+    --dice-2d12: url("../images/icons/dice/2d12_poison.png");
 
     --damage-icon: url("../images/icons/damage/poison.png");
 }
 
 /* Променева шкода */
 .radiant {
-    --dice-1d4: url("../images/icons/dice/1d4_radiant.png");
-    --dice-1d6: url("../images/icons/dice/1d6_radiant.png");
-    --dice-1d8: url("../images/icons/dice/1d8_radiant.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_radiant.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_radiant.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_radiant.png");
     --dice-1d10: url("../images/icons/dice/1d10_radiant.png");
     --dice-1d12: url("../images/icons/dice/1d12_radiant.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_radiant.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_radiant.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_radiant.png");
+    --dice-2d10: url("../images/icons/dice/2d10_radiant.png");
+    --dice-2d12: url("../images/icons/dice/2d12_radiant.png");
 
     --damage-icon: url("../images/icons/damage/radiant.png");
 }
 
 /* Громова шкода */
 .thunder {
-    --dice-1d4: url("../images/icons/dice/1d4_thunder.png");
-    --dice-1d6: url("../images/icons/dice/1d6_thunder.png");
-    --dice-1d8: url("../images/icons/dice/1d8_thunder.png");
+    --dice-1d4:  url("../images/icons/dice/1d4_thunder.png");
+    --dice-1d6:  url("../images/icons/dice/1d6_thunder.png");
+    --dice-1d8:  url("../images/icons/dice/1d8_thunder.png");
     --dice-1d10: url("../images/icons/dice/1d10_thunder.png");
     --dice-1d12: url("../images/icons/dice/1d12_thunder.png");
+
+    --dice-2d4:  url("../images/icons/dice/2d4_thunder.png");
+    --dice-2d6:  url("../images/icons/dice/2d6_thunder.png");
+    --dice-2d8:  url("../images/icons/dice/2d8_thunder.png");
+    --dice-2d10: url("../images/icons/dice/2d10_thunder.png");
+    --dice-2d12: url("../images/icons/dice/2d12_thunder.png");
 
     --damage-icon: url("../images/icons/damage/thunder.png");
 }
@@ -15017,6 +15107,10 @@ a[href$="Lavlike"] {
 
 .item-class.armour {
     background-image: url("../images/icons/item-class/armour.webp");
+}
+
+.item-class.arrows {
+    background-image: url("../images/icons/item-class/arrows.webp");
 }
 
 .item-class.clothing {
@@ -15083,6 +15177,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/weapon-range/melee.webp");
 }
 
+.weapon {
+    background-image: url("../images/icons/general/weapon.webp");
+}
+
 .proficiency {
     background-image: url("../images/icons/general/proficiency.webp");
 }
@@ -15137,6 +15235,18 @@ a[href$="Lavlike"] {
 
 .surprised {
     background-image: url("../images/icons/general/surprised.webp");
+}
+
+.burning {
+    background-image: url("../images/icons/general/burning.webp");
+}
+
+.wet {
+    background-image: url("../images/icons/general/wet.webp");
+}
+
+.acid-condition {
+    background-image: url("../images/icons/condition/acid-condition.webp");
 }
 
 .strength {
@@ -15219,6 +15329,10 @@ a[href$="Lavlike"] {
 
 .invisibility {
     background-image: url("../images/icons/action/invisibility.webp");
+}
+
+.help {
+    background-image: url("../images/icons/action/help.webp");
 }
 
 .reaction {
