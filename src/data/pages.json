@@ -60,6 +60,12 @@
     "class": "Еліксири"
   },
   {
+    "name": "Еліксир пильності",
+    "url": "elixir-of-vigilance.html",
+    "category": "Витратники",
+    "class": "Еліксири"
+  },
+  {
     "name": "Стріла кислоти",
     "url": "arrow-of-acid.html",
     "category": "Витратники",
@@ -403,6 +409,20 @@
   {
     "name": "Кільце бездушного сяйва",
     "url": "callous-glow-ring.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Персні"
+  },
+  {
+    "name": "Доки смерть не розлучить нас",
+    "url": "till-death-do-us-part.html",
+    "category": "Спорядження",
+    "class": "Аксесуари",
+    "type": "Персні"
+  },
+  {
+    "name": "Перстень вільної дії",
+    "url": "ring-of-free-action.html",
     "category": "Спорядження",
     "class": "Аксесуари",
     "type": "Персні"

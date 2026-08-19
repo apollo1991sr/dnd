@@ -15131,6 +15131,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/weight.webp");
 }
 
+.surprised {
+    background-image: url("../images/icons/general/surprised.webp");
+}
+
 .strength {
     background-image: url("../images/icons/ability/strength.webp");
 }
@@ -15221,8 +15225,24 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/temporary-hp.webp");
 }
 
+.difficult-terrain {
+    background-image: url("../images/icons/general/difficult-terrain.webp");
+}
+
+.paralysed {
+    background-image: url("../images/icons/general/paralysed.webp");
+}
+
+.restrained {
+    background-image: url("../images/icons/general/restrained.webp");
+}
+
 .speak-with-dead {
     background-image: url("../images/icons/spell/Speak with Dead.webp");
+}
+
+.beacon-of-hope {
+    background-image: url("../images/icons/spell/Beacon of Hope.webp");
 }
 
 .description .icon {
