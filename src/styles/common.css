@@ -15245,6 +15245,14 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/wet.webp");
 }
 
+.blinded {
+    background-image: url("../images/icons/condition/blinded.webp");
+}
+
+.prone {
+    background-image: url("../images/icons/condition/prone.webp");
+}
+
 .acid-condition {
     background-image: url("../images/icons/condition/acid-condition.webp");
 }
@@ -15333,6 +15341,10 @@ a[href$="Lavlike"] {
 
 .help {
     background-image: url("../images/icons/action/help.webp");
+}
+
+.dip {
+    background-image: url("../images/icons/action/dip.webp");
 }
 
 .reaction {
