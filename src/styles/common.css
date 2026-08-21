@@ -15245,6 +15245,8 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/wet.webp");
 }
 
+/* Conditions */
+/* стани */
 .blinded {
     background-image: url("../images/icons/condition/blinded.webp");
 }
@@ -15256,6 +15258,15 @@ a[href$="Lavlike"] {
 .acid-condition {
     background-image: url("../images/icons/condition/acid-condition.webp");
 }
+
+.poisoned {
+    background-image: url("../images/icons/condition/poisoned.webp");
+}
+
+.paralysed {
+    background-image: url("../images/icons/condition/paralysed.webp");
+}
+
 
 .strength {
     background-image: url("../images/icons/ability/strength.webp");
@@ -15363,10 +15374,6 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/difficult-terrain.webp");
 }
 
-.paralysed {
-    background-image: url("../images/icons/general/paralysed.webp");
-}
-
 .restrained {
     background-image: url("../images/icons/general/restrained.webp");
 }
@@ -15450,7 +15457,6 @@ a[href$="Lavlike"] {
 
 .description {
     display: flex;
-    gap: 5px;
 }
 
 .description .text {

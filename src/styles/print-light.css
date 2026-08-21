@@ -186,7 +186,7 @@ body {
     font-size: 17.5px;
     line-height: 1.4;
     text-align: left;
-    margin: 5px;
+    /*margin: 5px;*/
     border: 2px outset #ba783c;
     border-radius: 10px;
     padding: 5px 10px;
@@ -195,9 +195,10 @@ body {
     box-shadow: none !important;
 }
 
+
 .table-block {
-    width: 400px;
     min-height: 112px;
+    width: calc(100% - 300px);
 }
 
 .table-block-inner {
@@ -354,6 +355,9 @@ body {
     margin: 0;
 }
 
+.page__main {
+    padding: 15px;
+}
 /*
 .page__main {
     background-color: #9b9b9b;
@@ -373,11 +377,10 @@ body {
     font-size: 17.5px;
     line-height: 1.4;
     text-align: left;
-    margin: 5px;
+    margin-bottom: 5px;
     border: 2px outset #8a480c;
     border-radius: 10px;
     padding: 5px 10px;
-    width: 400px;
     min-height: 60px;
     background: linear-gradient(to bottom, #224a1f5f, #224a1f5f, #224a2f3f, #28511a3f);
 }
@@ -388,7 +391,7 @@ body {
     font-size: 17.5px;
     line-height: 1.4;
     text-align: left;
-    margin: 5px;
+    margin-bottom: 5px;
     border: 2px outset #8a480c;
     border-radius: 10px;
     padding: 5px 10px;
@@ -399,4 +402,8 @@ body {
 .resizable-container {
     width: 100%;
     margin: 0 auto;
+}
+
+.page-content h1 {
+    margin-top:0;
 }
