@@ -7621,14 +7621,6 @@ figure[typeof~='mw:File/Thumb'] > figcaption:empty {
     --checkbox-color--hover: var(--theme-alert-color--hover)
 }
 
-.pages-list {
-    background-color: var(--fandom-primary-color);
-    display: flex;
-    flex-direction: column;
-    gap: 6px;
-    padding: 6px 12px
-}
-
 .pages-list__item {
     border-radius: 4px;
     line-height: 1.25
@@ -14989,6 +14981,8 @@ a[href$="Lavlike"] {
     --dice-2d8:  url("../images/icons/dice/2d8_healing.png");
     --dice-2d10: url("../images/icons/dice/2d10_healing.png");
     --dice-2d12: url("../images/icons/dice/2d12_healing.png");
+
+    --damage-icon: url("../images/icons/damage/healing.webp");
 }
 
 /* Блискавкова шкода */
@@ -15233,17 +15227,6 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/weight.webp");
 }
 
-.surprised {
-    background-image: url("../images/icons/general/surprised.webp");
-}
-
-.burning {
-    background-image: url("../images/icons/general/burning.webp");
-}
-
-.wet {
-    background-image: url("../images/icons/general/wet.webp");
-}
 
 /* Conditions */
 /* стани */
@@ -15267,7 +15250,28 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/condition/paralysed.webp");
 }
 
+.hastened {
+    background-image: url("../images/icons/condition/hastened.webp");
+}
 
+.lethargic {
+    background-image: url("../images/icons/condition/lethargic.webp");
+}
+
+.wet {
+    background-image: url("../images/icons/condition/wet.webp");
+}
+
+.surprised {
+    background-image: url("../images/icons/condition/surprised.webp");
+}
+
+.burning {
+    background-image: url("../images/icons/condition/burning.webp");
+}
+
+
+/* ability */
 .strength {
     background-image: url("../images/icons/ability/strength.webp");
 }
@@ -15477,15 +15481,17 @@ a[href$="Lavlike"] {
 
 
 .glow {
-    filter: drop-shadow(0 0 1px #00ffff)
+    filter: drop-shadow(0 0 1px #00ffff);
 }
 
 .squared {
     border-radius: 10%;
+    filter: drop-shadow(0 0 1px #000000);
 }
 
 .rounded {
-    border-radius: 50%
+    border-radius: 50%;
+    filter: drop-shadow(0 0 1px #000000);
 }
 
 .inline-block {

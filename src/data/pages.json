@@ -150,6 +150,12 @@
     "class": "Стріли"
   },
   {
+    "name": "Стріла нищення нечисті",
+    "url": "arrow-of-fiend-slaying.html",
+    "category": "Витратники",
+    "class": "Стріли"
+  },
+  {
     "name": "Олива палія",
     "url": "arsonists-oil.html",
     "category": "Витратники",

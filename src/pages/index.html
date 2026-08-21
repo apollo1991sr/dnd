@@ -9,17 +9,26 @@
     <link rel="stylesheet" href="/styles/print-light.css">
     <script defer src="/scripts/pages-index.js"></script>
     <style>
-        li {
-            margin-left: 80px;
+        .header {
+            padding: 6px 12px;
+        }
+        body {
             font-family: 'Alegreya';
+        }
+        ul {
+            display: flex;
+        }
+        .item {
             font-size: 16px;
             overflow: hidden;
             font-weight: 500;
             line-height: 1.2;
+            display: flex;
+            align-items: center;
+            gap: 3px;
         }
         .category-heading {
             color: #000;
-            margin-left: 20px;
             margin-top: 24px;
             font-size: 24px;
             font-weight: 700;
@@ -29,18 +38,42 @@
             font-size: 18px;
             font-weight: 600;
             color: #000;
-            margin-left: 40px;
         }
         .type-heading {
             color: #000;
-            margin-left: 60px;
             margin-top: 10px;
             font-size: 15px;
             font-weight: 600;
             opacity: 0.75;
         }
-        .pages-list {
 
+        .pages-list {
+            background-color: var(--fandom-primary-color);
+            display: flex;
+            flex-direction: column;
+            gap: 6px;
+            padding: 6px 12px
+        }
+
+        img {
+            height: 40px;
+            width: 40px;
+            border: 1px ridge #010101;
+            background-color: #0101012f;
+        }
+
+        .class-groups {
+            display: flex;
+        }
+
+        .class-group, .type-group {
+            display: flex;
+            gap:3px;
+            flex-direction: column;
+        }
+
+        .class-group {
+            flex: 1;
         }
     </style>
 </head>
@@ -50,9 +83,9 @@
         <h1 style="margin:0;">Сторінки для друку</h1>
     </div>
 
-    <ul id="pages-list" class="pages-list">
+    <div id="pages-list" class="pages-list">
         <!-- автоматично -->
-    </ul>
+    </div>
 
 </main>
 </body>

@@ -1,31 +1,3 @@
-// (async function () {
-//     const list = document.getElementById("pages-list");
-//     if (!list) return;
-//
-//     try {
-//         const res = await fetch("/__pages.json");
-//         const pages = await res.json();
-//
-//         list.innerHTML = "";
-//
-//         pages.forEach(file => {
-//             const name = file.replace(/\.html$/i, "");
-//
-//             const li = document.createElement("li");
-//             const a = document.createElement("a");
-//
-//             a.href = `/pages/${file}`;
-//             a.textContent = name.replace(/-/g, " ");
-//
-//             li.appendChild(a);
-//             list.appendChild(li);
-//         });
-//
-//     } catch (e) {
-//         list.innerHTML = "<li><em>Не вдалося завантажити список сторінок</em></li>";
-//     }
-// })();
-
 (async function () {
     const list = document.getElementById("pages-list");
     if (!list) return;
@@ -78,54 +50,96 @@
         Object.keys(grouped)
             .sort((a, b) => a.localeCompare(b, "uk"))
             .forEach(category => {
-                list.appendChild(createHeading(category, "category-heading"));
+
+                const categoryGroup = document.createElement("div");
+                categoryGroup.classList.add("category-group");
+
+                categoryGroup.appendChild(
+                    createHeading(category, "category-heading")
+                );
+
+                // Спільна обгортка для всіх class-group
+                const classGroupsWrapper = document.createElement("div");
+                classGroupsWrapper.classList.add("class-groups");
 
                 Object.keys(grouped[category])
                     .sort((a, b) => a.localeCompare(b, "uk"))
                     .forEach(itemClass => {
-                        list.appendChild(createHeading(itemClass, "class-heading"));
+
+                        const classGroupWrapper = document.createElement("div");
+                        classGroupWrapper.classList.add("class-group");
+
+                        classGroupWrapper.appendChild(
+                            createHeading(itemClass, "class-heading")
+                        );
 
                         const classGroup = grouped[category][itemClass];
 
                         if (classGroup._items) {
-                            appendItems(list, classGroup._items);
+                            appendItems(classGroupWrapper, classGroup._items);
                         }
 
                         Object.keys(classGroup)
                             .filter(key => key !== "_items")
                             .sort((a, b) => a.localeCompare(b, "uk"))
                             .forEach(type => {
-                                list.appendChild(createHeading(type, "type-heading"));
-                                appendItems(list, classGroup[type]);
+
+                                const typeGroup = document.createElement("div");
+                                typeGroup.classList.add("type-group");
+
+                                typeGroup.appendChild(
+                                    createHeading(type, "type-heading")
+                                );
+
+                                appendItems(typeGroup, classGroup[type]);
+
+                                classGroupWrapper.appendChild(typeGroup);
                             });
+
+                        // class-group додаємо не в category-group,
+                        // а в спільний class-groups
+                        classGroupsWrapper.appendChild(classGroupWrapper);
                     });
+
+                categoryGroup.appendChild(classGroupsWrapper);
+
+                list.appendChild(categoryGroup);
             });
 
     } catch (e) {
-        list.innerHTML = "<li><em>Не вдалося завантажити список сторінок</em></li>";
+        list.innerHTML = "<div><em>Не вдалося завантажити список сторінок</em></div>";
         console.error(e);
     }
 })();
 
 function createHeading(text, className) {
-    const li = document.createElement("li");
-    li.classList.add(className);
-    li.textContent = text + ":";
+    const el = document.createElement("div");
+    el.classList.add(className);
+    el.textContent = text + ":";
 
-    return li;
+    return el;
 }
 
-function appendItems(list, items) {
+function appendItems(container, items) {
     items
         .sort((a, b) => a.name.localeCompare(b.name, "uk"))
         .forEach(page => {
-            const li = document.createElement("li");
+            const el = document.createElement("div");
             const a = document.createElement("a");
+            const img = document.createElement("img");
+
+            const imgName = page.url.replace(".html", ".webp");
+
+            img.src = `../images/items/${imgName}`;
+            img.classList.add("squared", "glow");
 
             a.href = `/pages/${page.url}`;
             a.textContent = page.name;
 
-            li.appendChild(a);
-            list.appendChild(li);
+            el.classList.add('item')
+            el.appendChild(img);
+            el.appendChild(a);
+
+            container.appendChild(el);
         });
 }
