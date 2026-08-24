@@ -15123,6 +15123,11 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-class/grenades.webp");
 }
 
+
+.item-class.coatings {
+    background-image: url("../images/icons/item-class/coatings.webp");
+}
+
 .item-class.traps {
     background-image: url("../images/icons/item-class/traps.webp");
 }
@@ -15215,6 +15220,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/immunity.webp");
 }
 
+.vulnerability {
+    background-image: url("../images/icons/general/vulnerability.webp");
+}
+
 .dippable {
     background-image: url("../images/icons/general/dippable.webp");
 }
@@ -15271,7 +15280,7 @@ a[href$="Lavlike"] {
 }
 
 
-/* ability */
+/* ability характеристики */
 .strength {
     background-image: url("../images/icons/ability/strength.webp");
 }
@@ -15280,9 +15289,20 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/ability/dexterity.webp");
 }
 
+.constitution {
+    background-image: url("../images/icons/ability/constitution.webp");
+}
+
+
+/* skills навички */
 .acrobatics {
     background-image: url("../images/icons/skills/acrobatics.webp");
 }
+
+.sleight-of-hand {
+    background-image: url("../images/icons/skills/sleight-of-hand.webp");
+}
+
 
 .saving-throws {
     background-image: url("../images/icons/general/saving-throws.webp");
