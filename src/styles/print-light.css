@@ -135,8 +135,14 @@ body {
 }
 
 .page-content ol,
-.page-content ul {
+.page-content ul,
+.page-content dl {
     margin: 6px 0 10px 20px;
+}
+
+.page-content li,
+.page-content dd {
+    margin-bottom: 3px;
 }
 
 /* Прибираємо темні обводки з тексту, які на світлій темі дають брудний друк */

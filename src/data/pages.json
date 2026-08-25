@@ -462,26 +462,38 @@
     "type": "Рапіри"
   },
   {
-    "name": "Сувій \"Ланцюгова блискавка\"",
+    "name": "Сувій «Ланцюгова блискавка»",
     "url": "scroll-chain-lightning.html",
     "category": "Витратники",
     "class": "Сувої"
   },
   {
-    "name": "Сувій \"Гниль\"",
+    "name": "Сувій «Гниль»",
     "url": "scroll-of-blight.html",
     "category": "Витратники",
     "class": "Сувої"
   },
   {
-    "name": "Сувій \"Вогняний заряд\"",
+    "name": "Сувій «Вогняний заряд»",
     "url": "scroll-of-fire-bolt.html",
     "category": "Витратники",
     "class": "Сувої"
   },
   {
-    "name": "Сувій \"Оживлення\"",
+    "name": "Сувій «Оживлення»",
     "url": "scroll-of-revivify.html",
+    "category": "Витратники",
+    "class": "Сувої"
+  },
+  {
+    "name": "Сувій «Сонячний промінь»",
+    "url": "scroll-of-sunbeam.html",
+    "category": "Витратники",
+    "class": "Сувої"
+  },
+  {
+    "name": "Сувій «Дружба тварин»",
+    "url": "scroll-of-animal-friendship.html",
     "category": "Витратники",
     "class": "Сувої"
   },

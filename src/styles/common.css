@@ -13354,8 +13354,9 @@ html:not(.ve-active) .page.has-right-rail .page__main {
     font-weight: 700
 }
 
+.page-content li,
 .page-content dd {
-    margin-left: 24px
+    margin-bottom: 3px;
 }
 
 .page-content pre {
@@ -14451,7 +14452,7 @@ a[href$="Lavlike"] {
     margin: 0.2em 0
 }
 
-.page-content ol, .page-content ul, .page-content dd {
+.page-content ol, .page-content ul {
     margin: 0.2em 0 0.2em 1.6em
 }
 
@@ -14813,13 +14814,19 @@ a[href$="Lavlike"] {
     height: 20px;
 }
 
-.link-style {
+.link {
     color: var(--theme-link-color);
     font-weight: 500;
 }
+
 .icon.dice {
     width: 34px;
     height: 34px;
+}
+
+.portable-infobox .icon.dice {
+    width: 48px;
+    height: 48px;
 }
 
 .icon.damage {
@@ -15119,6 +15126,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-class/potions.webp");
 }
 
+.item-class.scrolls {
+    background-image: url("../images/icons/item-class/scrolls.webp");
+}
+
 .item-class.grenades {
     background-image: url("../images/icons/item-class/grenades.webp");
 }
@@ -15279,6 +15290,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/condition/burning.webp");
 }
 
+.charmed {
+    background-image: url("../images/icons/condition/charmed.webp");
+}
+
 
 /* ability характеристики */
 .strength {
@@ -15291,6 +15306,18 @@ a[href$="Lavlike"] {
 
 .constitution {
     background-image: url("../images/icons/ability/constitution.webp");
+}
+
+.intelligence {
+    background-image: url("../images/icons/ability/intelligence.webp");
+}
+
+.wisdom {
+    background-image: url("../images/icons/ability/wisdom.webp");
+}
+
+.charisma {
+    background-image: url("../images/icons/ability/charisma.webp");
 }
 
 
@@ -15330,6 +15357,10 @@ a[href$="Lavlike"] {
 
 .attack-roll {
     background-image: url("../images/icons/general/attack-roll.webp");
+}
+
+.concentration {
+    background-image: url("../images/icons/general/concentration.webp");
 }
 
 .limit {
@@ -15411,6 +15442,12 @@ a[href$="Lavlike"] {
 }
 
 .description .icon {
+    width: 40px;
+    height: 40px;
+    background-image: url("../images/icons/general/description.webp");
+    flex-shrink: 0;
+}
+.description i {
     width: 40px;
     height: 40px;
     background-image: url("../images/icons/general/description.webp");
@@ -15528,6 +15565,6 @@ a[href$="Lavlike"] {
     flex: 0 0 auto;
 }
 
-.inline-block .link-style {
+.inline-block .link {
     line-height: inherit;
 }
