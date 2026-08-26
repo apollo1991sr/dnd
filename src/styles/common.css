@@ -15294,6 +15294,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/condition/charmed.webp");
 }
 
+.downed {
+    background-image: url("../images/icons/condition/downed.webp");
+}
+
 
 /* ability характеристики */
 .strength {
@@ -15415,6 +15419,10 @@ a[href$="Lavlike"] {
 
 .reaction {
     background-image: url("../images/icons/general/reaction.webp");
+}
+
+.spell-slot {
+    background-image: url("../images/icons/general/spell-slot.webp");
 }
 
 .hp {
