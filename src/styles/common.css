@@ -15167,6 +15167,22 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/item-type/shield.webp");
 }
 
+.item-type.heavy-armour {
+    background-image: url("../images/icons/item-type/heavy-armour.webp");
+}
+
+.item-type.light-armour {
+    background-image: url("../images/icons/item-type/light-armour.webp");
+}
+
+.item-type.medium-armour {
+    background-image: url("../images/icons/item-type/medium-armour.webp");
+}
+
+.item-type.helmets {
+    background-image: url("../images/icons/item-type/helmets.webp");
+}
+
 .item-type.cloaks {
     background-image: url("../images/icons/item-type/cloaks.webp");
 }
@@ -15372,6 +15388,10 @@ a[href$="Lavlike"] {
 
 .perception {
     background-image: url("../images/icons/skills/perception.webp");
+}
+
+.stealth {
+    background-image: url("../images/icons/skills/stealth.webp");
 }
 
 
