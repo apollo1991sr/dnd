@@ -14307,8 +14307,8 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
     border-top: none !important;
 }
 
-.page-content .pi-data-value.pi-item-damage {
-    padding-left: 23px;
+.page-content .pi-data-value.pi-item-damage > .inline-flex {
+    justify-content: center;
 }
 
 /**********  Кінець коду інфобоксу  ***********/
@@ -15179,6 +15179,26 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/weapon-type/Longswords Icon.png");
 }
 
+.weapon-type.greatswords {
+    background-image: url("../images/icons/weapon-type/greatswords.webp");
+}
+
+.weapon-type.longbows {
+    background-image: url("../images/icons/weapon-type/longbows.webp");
+}
+
+.weapon-type.war-picks {
+    background-image: url("../images/icons/weapon-type/war-picks.webp");
+}
+
+.weapon-type.daggers {
+    background-image: url("../images/icons/weapon-type/daggers.webp");
+}
+
+.weapon-type.mauls {
+    background-image: url("../images/icons/weapon-type/mauls.webp");
+}
+
 .weapon-type.rapiers {
     background-image: url("../images/icons/weapon-type/rapiers.webp");
 }
@@ -15195,6 +15215,14 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/general/proficiency.webp");
 }
 
+.initiative {
+    background-image: url("../images/icons/general/initiative.webp");
+}
+
+.check {
+    background-image: url("../images/icons/general/check.webp");
+}
+
 .rarity {
     background-image: url("../images/icons/general/rarity.webp");
 }
@@ -15209,6 +15237,14 @@ a[href$="Lavlike"] {
 
 .handedness {
     background-image: url("../images/icons/general/handedness.webp");
+}
+
+.light {
+    background-image: url("../images/icons/general/light.webp");
+}
+
+.thrown {
+    background-image: url("../images/icons/general/thrown.webp");
 }
 
 .one-handed {
@@ -15332,6 +15368,10 @@ a[href$="Lavlike"] {
 
 .sleight-of-hand {
     background-image: url("../images/icons/skills/sleight-of-hand.webp");
+}
+
+.perception {
+    background-image: url("../images/icons/skills/perception.webp");
 }
 
 
