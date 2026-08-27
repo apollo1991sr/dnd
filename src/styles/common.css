@@ -15203,6 +15203,10 @@ a[href$="Lavlike"] {
     background-image: url("../images/icons/weapon-type/longbows.webp");
 }
 
+.weapon-type.shortbows {
+    background-image: url("../images/icons/weapon-type/shortbows.webp");
+}
+
 .weapon-type.war-picks {
     background-image: url("../images/icons/weapon-type/war-picks.webp");
 }
