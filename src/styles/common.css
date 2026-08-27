@@ -5769,12 +5769,6 @@ html[dir=rtl] .wds-new-nav-user-panel__list-item a {
     margin: 0
 }
 
-.page-content .portable-infobox .pi-title {
-    font-size: 18px;
-    line-height: 1.25;
-    padding: 12px 9px
-}
-
 .page-content .portable-infobox .pi-header {
     font-size: 14px;
     line-height: 1.25;
@@ -13274,11 +13268,6 @@ html:not(.ve-active) .page.has-right-rail .page__main {
     overflow-wrap: break-word
 }
 
-.page-content h1 {
-    font-size: 36px;
-    font-weight: 300;
-    overflow: initial
-}
 
 .page-content h2 {
     border-bottom: 1px solid var(--theme-border-color);
@@ -14098,18 +14087,14 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
 
 /*** Заголовок інфобоксу ***/
 .page-content .portable-infobox .pi-title {
-    display: table-cell;
+    display: block;
     vertical-align: middle;
     background-color: transparent;
     color: #9aca6a;
-    /*font-size: 17.5px;*/
-    /*font-weight: normal;*/
-    font-size: 19px; /* шрифт Alegreya */
+    font-size: 20px; /* шрифт Alegreya */
     font-weight: 500; /* шрифт Alegreya */
-    line-height: 0.8;
-    padding: 1px;
-    width: 280px;
-    height: 52px;
+    line-height: 1.2;
+    padding: 0;
     border-radius: 12px;
     border-bottom: 1px outset #ba783c;
     border-top: 1px outset #ba783c;
@@ -14121,17 +14106,13 @@ body:not([class*=page-UserProfile_]) .gamepedia_pro_user:before {
     color: #eaba8a;
 }
 
-.bg-title, .bgc-title {
+.bgc-title {
     display: table-cell;
     background-size: 100% 100%;
     vertical-align: middle;
     padding: 0 20px 2px 20px;
     width: inherit;
     height: 52px;
-}
-
-.bg-title {
-    background-image: url('../images/bg-title.png'); /* Зображення для заголовка */
 }
 
 .bgc-title {
@@ -14795,6 +14776,53 @@ a[href$="Lavlike"] {
     height: 96px
 }
 
+
+.page-content h1 {
+    font-size: 36px;
+    overflow: visible;
+    position: relative;
+    margin: 0 0 14px;
+
+    padding-bottom: 14px;
+    text-align: center;
+
+
+    color: #29231e;
+
+    text-shadow:
+            0 1px 0 #fff8ed,
+            0 2px 2px rgba(76, 45, 20, 0.12);
+}
+
+.page-content h1::after {
+    content: "";
+    position: absolute;
+
+    left: 0;
+    bottom: 0;
+
+    width: calc(100% - 310px);
+    height: 9px;
+
+    background:
+            radial-gradient(
+                    closest-side,
+                    #9b642f 0 55%,
+                    #d5a66a 56% 72%,
+                    transparent 73%
+            ) center / 9px 9px no-repeat,
+
+            linear-gradient(
+                    to right,
+                    transparent 0%,
+                    #cba477 8%,
+                    #9b642f 42%,
+                    transparent 48% 52%,
+                    #9b642f 58%,
+                    #cba477 92%,
+                    transparent 100%
+            ) center / 100% 1px no-repeat;
+}
 
 
 
@@ -15584,8 +15612,38 @@ a[href$="Lavlike"] {
 }
 
 .bg-title {
-    padding: 16px 20px 16px 20px;
+    display: block;
+
+    padding: 20px 22px 20px 22px;
     color: var(--rarity-color);
+
+    --top-height: 27px;
+    --bottom-height: 27px;
+
+    background-image:
+            url('../images/bg-title-top.webp'),
+            url('../images/bg-title-bottom.webp'),
+            url('../images/bg-title-middle.webp');
+
+    background-repeat:
+            no-repeat,
+            no-repeat,
+            no-repeat;
+
+    background-position:
+            top center,
+            bottom center,
+            top var(--top-height) center;
+
+    background-size:
+            100% var(--top-height),
+            100% var(--bottom-height),
+            100% calc(100% - var(--top-height) - var(--bottom-height));
+
+    /* або для друку ... */
+    /*background-image: url('../images/bg-title.png');*/
+    /*background-repeat: no-repeat;*/
+    /*background-size: 100% 100%;*/
 }
 
 .description {
