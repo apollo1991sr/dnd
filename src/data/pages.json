@@ -210,6 +210,13 @@
     "type": "Легкі обладунки"
   },
   {
+    "name": "Дублет з луски Варракса",
+    "url": "varrax-scale-doublet.html",
+    "category": "Спорядження",
+    "class": "Обладунки",
+    "type": "Легкі обладунки"
+  },
+  {
     "name": "Лати +1",
     "url": "plate-armour+1.html",
     "category": "Спорядження",
@@ -302,6 +309,13 @@
   {
     "name": "Незгасне лезо",
     "url": "everburn-blade.html",
+    "category": "Спорядження",
+    "class": "Зброя",
+    "type": "Великі мечі"
+  },
+  {
+    "name": "Катана",
+    "url": "katana.html",
     "category": "Спорядження",
     "class": "Зброя",
     "type": "Великі мечі"
